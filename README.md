@@ -19,9 +19,8 @@ Credits：
 感谢nikke社区和广大mod社区中各位大佬的付出
 
 ```
-那由塔镇楼！
 ![](https://i2.hdslb.com/bfs/new_dyn/a87c01732811df31f40a9753effc669f19505257.jpg)
-
+> 立个娜由塔，无为竞癫疯！
 #  Doro_Repacker_EX 
 
 ## 工具介绍
@@ -105,5 +104,5 @@ Voice和Emotion等就十分少见了...
 	daso132：Doro_Repacker_modified_final  
 	Discord：https://discord.gg/nikke
 	
-水母女儿收尾
+> 水母女儿收尾
 ![](https://i2.hdslb.com/bfs/new_dyn/bd678029f226de9593e5266a27f9775219505257.jpg)
