@@ -1,0 +1,2624 @@
+[
+    {
+        "file_code": "c010",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "d8c117edd0dac8ef86ac7013fbc4f219"
+    },
+    {
+        "file_code": "c010",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "e43814a33171073b4e08e916ebfcf2dc"
+    },
+    {
+        "file_code": "c010",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "77240a0c90b1e1a1ecde63afd67e5636"
+    },
+    {
+        "file_code": "c011",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "24c263cd7a51973c8cc73d42738d9053"
+    },
+    {
+        "file_code": "c011",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "3d5446f68fdb95f8ae1430369df07aaf"
+    },
+    {
+        "file_code": "c012",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "e8f0d9f5f8032fd49447e8747fb02cc5"
+    },
+    {
+        "file_code": "c013",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "e9890c11dd3aa8367a08db3246979c00"
+    },
+    {
+        "file_code": "c014",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "a51864a53d0d4bf79f34eecb28bb6d3d"
+    },
+    {
+        "file_code": "c015",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "351aab7d86409445dc46cd6238c21ed7"
+    },
+    {
+        "file_code": "c016",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "040051810342b37d9e255bbb3ee6091c"
+    },
+    {
+        "file_code": "c016",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "ea252f17c698fcd241384058f305b019"
+    },
+    {
+        "file_code": "c016",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "34f0250fbf645e0e351ec34837fbcad6"
+    },
+    {
+        "file_code": "c017",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "7f9120a8a0fbc7352721ddbe1aaed2e2"
+    },
+    {
+        "file_code": "c020",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "c809e4c47281ec2aec86e219d65259e2"
+    },
+    {
+        "file_code": "c022",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "dd5d2d510b61fa40ec2d08178906ac68"
+    },
+    {
+        "file_code": "c022",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "c5b3c2090dfaf3ec80532f52c0e2d645"
+    },
+    {
+        "file_code": "c023",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "00596f19c52608d864fb3b646e71410a"
+    },
+    {
+        "file_code": "c030",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "ca151bf5d156526938cd7c820d358ae8"
+    },
+    {
+        "file_code": "c030",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "23549cfc78d53821618e6f1b3f72394e"
+    },
+    {
+        "file_code": "c030",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "89811da3baac8975d6563c0ca2575069"
+    },
+    {
+        "file_code": "c032",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "34841b1ba80748730d5bab1d5b0acdaf"
+    },
+    {
+        "file_code": "c032",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "bfa8e4576ad0cf22e5efbcb04ba589b1"
+    },
+    {
+        "file_code": "c033",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "100311b57105255c1473efc033bf557f"
+    },
+    {
+        "file_code": "c040",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "60f3a448160aa5b54a39dac527b10faf"
+    },
+    {
+        "file_code": "c041",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "eb70d347a28a043dee2a7f478109d42e"
+    },
+    {
+        "file_code": "c041",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "aaed5ba38f2a366e936b4a78e6ab3359"
+    },
+    {
+        "file_code": "c043",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "7f45aa7183677c7d0cb375ef9dedcd6f"
+    },
+    {
+        "file_code": "c043",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "ab7295675b9fcfea8c8668ae0e054ced"
+    },
+    {
+        "file_code": "c043",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "e47ee3990002660b742abc24915f8af5"
+    },
+    {
+        "file_code": "c060",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "b2caebd1f72bab2e88a83d53d72bd8dc"
+    },
+    {
+        "file_code": "c061",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "d43cdad7031c8fe725f2433a0209777d"
+    },
+    {
+        "file_code": "c062",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "fc180e1f5b2274cbb7904aa2c5a2d46f"
+    },
+    {
+        "file_code": "c070",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "3e50f358ca712c41579b7117a1a721b8"
+    },
+    {
+        "file_code": "c070",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "496b9cae14d3456fd099ed15e3408403"
+    },
+    {
+        "file_code": "c070",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "5dfc3f5418e1c9b96bdaf2a9c6423f52"
+    },
+    {
+        "file_code": "c071",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "cd10b681fac435cead3a52a3f04ad9ea"
+    },
+    {
+        "file_code": "c072",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "110290490ed53393f5c42b4705c04f04"
+    },
+    {
+        "file_code": "c072",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "3bff3fbfadf8d0a6a28ef7cc7a1318ba"
+    },
+    {
+        "file_code": "c072",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "771e8eb20813a77f3ab997ab334209a5"
+    },
+    {
+        "file_code": "c072",
+        "skin_code": "04",
+        "type": "standing",
+        "hashed_name": "f714a556e0c7831e90dd85947052dbfe"
+    },
+    {
+        "file_code": "c080",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "0dd8e8c2a619959d489a1395f56a4965"
+    },
+    {
+        "file_code": "c080",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "79c95ace71359274492b40329305f067"
+    },
+    {
+        "file_code": "c080",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "f3e6bbefecf2da11fdaa3060676a2a6e"
+    },
+    {
+        "file_code": "c082",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "88b99b40ed26671e59c6551b304a1414"
+    },
+    {
+        "file_code": "c082",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "817353c42610ce03542a4199fc9386fd"
+    },
+    {
+        "file_code": "c082",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "2da53dd3667df1ecfa1770905fd98e75"
+    },
+    {
+        "file_code": "c090",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "c366bdfa4a6ebc2a247320bccb590731"
+    },
+    {
+        "file_code": "c090",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "1d500443791842868d5e7bc288cd2f37"
+    },
+    {
+        "file_code": "c090",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "6ac2c8a011a4ebb7cac91b684523cdf0"
+    },
+    {
+        "file_code": "c091",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "e81ca43c5a312dcdd889a42ede2685dc"
+    },
+    {
+        "file_code": "c091",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "4e75fe2b9b742a377246c04cde8dc0bc"
+    },
+    {
+        "file_code": "c092",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "b8c47d5aa00c24d7888708326ae33a50"
+    },
+    {
+        "file_code": "c093",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "eb89349da5d9b165d4c06c4888e6f1b7"
+    },
+    {
+        "file_code": "c094",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "5a443bfe9f826e9081633e3d2d9d4ae7"
+    },
+    {
+        "file_code": "c095",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "ae06b7d3a46978a88b6b62ff366647ec"
+    },
+    {
+        "file_code": "c095",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "3ada27bae19fd02973c4056d9b85d2cd"
+    },
+    {
+        "file_code": "c100",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "9f82b21df47f1d0d6f13aa3796c9633d"
+    },
+    {
+        "file_code": "c101",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "6250768c9311194d2dca7172d89e3f9b"
+    },
+    {
+        "file_code": "c101",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "6e20cd83d4f197e17d40882448cfc9e6"
+    },
+    {
+        "file_code": "c101",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "06fa7848adae0904adf8e4dff07e423c"
+    },
+    {
+        "file_code": "c102",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "84c1e0b96026b5fbf829c2f33d830ec9"
+    },
+    {
+        "file_code": "c102",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "10539b1f6c470a204d68cda870985bf7"
+    },
+    {
+        "file_code": "c103",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "919f5b01868a16138b91780ed8ba9364"
+    },
+    {
+        "file_code": "c104",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "cfe364dd2b5c6c5f37e182fed7f27b12"
+    },
+    {
+        "file_code": "c105",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "3af660598dfc2167bcdc0120107aa149"
+    },
+    {
+        "file_code": "c110",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "46fa0a0bc4964dc6c64cb97baa58214b"
+    },
+    {
+        "file_code": "c111",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "9f62ba1c1e40f49621a1c8269cb88f75"
+    },
+    {
+        "file_code": "c112",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "f046782afaf98bb8be83f726ce33f4d8"
+    },
+    {
+        "file_code": "c112",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "17dd136b5d94268b4806ec04e7bf3b6f"
+    },
+    {
+        "file_code": "c112",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "722675d0aa9de8fe16bbf816624ee8ea"
+    },
+    {
+        "file_code": "c120",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "e862e7616ae6c616eeb214229047b45a"
+    },
+    {
+        "file_code": "c121",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "62b7faf7bf2d684d0d3c5479a3b7260e"
+    },
+    {
+        "file_code": "c130",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "5b759eb05219f01ca3955f431badb6c6"
+    },
+    {
+        "file_code": "c130",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "ceb55c3f6624119543c594efd665017f"
+    },
+    {
+        "file_code": "c131",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "60c47210f30932b716bbbce46f9e766f"
+    },
+    {
+        "file_code": "c131",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "ce3fd07716c55bad733b3d5bc69b89d8"
+    },
+    {
+        "file_code": "c132",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "9ad3c2883b8b62236929419780f2f4f4"
+    },
+    {
+        "file_code": "c140",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "2df5433ae84139934ba59a4d35c48f46"
+    },
+    {
+        "file_code": "c140",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "ec9be4366e20f5a3c1529460d4f5d037"
+    },
+    {
+        "file_code": "c140",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "6b6179e9dde7d3b7e1ab663a05fab334"
+    },
+    {
+        "file_code": "c141",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "72c47b608308e6857925ffbf1e6576c7"
+    },
+    {
+        "file_code": "c141",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "de30901583c08f898c527c0300ad123c"
+    },
+    {
+        "file_code": "c142",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "199b7f4e0f994c42ae166a1bb40048b0"
+    },
+    {
+        "file_code": "c142",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "d3d18eaccabacb8e39aef62acfd544e2"
+    },
+    {
+        "file_code": "c143",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "1d16e5f4563f0da8bbcea0b32c185e87"
+    },
+    {
+        "file_code": "c150",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "6a56a624019267ad6f077568fb5df2c5"
+    },
+    {
+        "file_code": "c150",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "02fc1c8e66b8dd56d44520858aa2c17e"
+    },
+    {
+        "file_code": "c150",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "37b37468044d5e7c227d3766adc3bd5d"
+    },
+    {
+        "file_code": "c160",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "e75b1340a29bd2603a6ee09fd70ab7c2"
+    },
+    {
+        "file_code": "c160",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "166ca466b645d4fcd76f24f941245433"
+    },
+    {
+        "file_code": "c161",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "12b47ed7c670f779640f157338954fe2"
+    },
+    {
+        "file_code": "c162",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "a4fb613c055c108e0b5872a110fdd799"
+    },
+    {
+        "file_code": "c162",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "293727754876f8d7d52097c5ab09b973"
+    },
+    {
+        "file_code": "c170",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "1588bff0f0b362de5a389d429be68b8a"
+    },
+    {
+        "file_code": "c170",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "c38cc8f24cef28c764d053936416117d"
+    },
+    {
+        "file_code": "c170",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "6a3f715f8181c632347c88b02ce2eaa5"
+    },
+    {
+        "file_code": "c170",
+        "skin_code": "03",
+        "type": "standing",
+        "hashed_name": "8d063f8c7dd4c49c40d8e13a5e613571"
+    },
+    {
+        "file_code": "c171",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "534e7acb1da13e3bf9ee937f2c55fe1d"
+    },
+    {
+        "file_code": "c172",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "eab39047d84e9eb585abe6fbc4b7d893"
+    },
+    {
+        "file_code": "c180",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "ed7d7f0cc92604df5d851f1d3c7584cd"
+    },
+    {
+        "file_code": "c180",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "15e18c67bf284442598fb566ec5e2cff"
+    },
+    {
+        "file_code": "c181",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "44846964da22c35d6c2acf73f3bc8a80"
+    },
+    {
+        "file_code": "c181",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "1cdae937c654c0e573baa15f7f181fe9"
+    },
+    {
+        "file_code": "c181",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "5fd88d3cb74483d0b637b26ae8555df1"
+    },
+    {
+        "file_code": "c182",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "310608d99cf8c4d3d0ad09f091036436"
+    },
+    {
+        "file_code": "c183",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "c909f78e781bbfb51cbe02de5a38a1d9"
+    },
+    {
+        "file_code": "c190",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "aac0c7262f8417474ceaf72e075d71fa"
+    },
+    {
+        "file_code": "c191",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "ebd6122eb3ad06bb95b6e5d4d9ede4b5"
+    },
+    {
+        "file_code": "c191",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "bef42a8caff950fabb18d22bf0b380fb"
+    },
+    {
+        "file_code": "c192",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "00ca040b428389e1818b31c6008e755f"
+    },
+    {
+        "file_code": "c192",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "f5f03b0df7bda9c59e271ca4fee017ed"
+    },
+    {
+        "file_code": "c192",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "ee5c310a70576e84f36bcf41f9fae124"
+    },
+    {
+        "file_code": "c193",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "b335f911d922af1c754a0b6fa0812067"
+    },
+    {
+        "file_code": "c194",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "83f9327c03b304b335d27d2d2d18a1e4"
+    },
+    {
+        "file_code": "c195",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "ba81648d022e225e39e9abc82b853bfe"
+    },
+    {
+        "file_code": "c200",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "6e2a238f5164c9866c510881793a7d79"
+    },
+    {
+        "file_code": "c200",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "f9d838d56725c5e579d06af6789ae014"
+    },
+    {
+        "file_code": "c201",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "0645514f725619b903d4566cfbfa1435"
+    },
+    {
+        "file_code": "c201",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "1a32ebec210eb6bccca64b762f3c1612"
+    },
+    {
+        "file_code": "c202",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "3abaffc837b2c3f94c98be87de7b7bee"
+    },
+    {
+        "file_code": "c202",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "2d3b5be27ae64d25478f623da2067eb0"
+    },
+    {
+        "file_code": "c203",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "ae1c3a67cdc2d7b0d5a8cbb22ef4d1a6"
+    },
+    {
+        "file_code": "c210",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "87bbedbe996fd26bbcc4164fb963ef02"
+    },
+    {
+        "file_code": "c210",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "7570968c78b353baa10e34a9e443855e"
+    },
+    {
+        "file_code": "c210",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "a3ffc919dfe3ec538725573ab1208ace"
+    },
+    {
+        "file_code": "c210",
+        "skin_code": "03",
+        "type": "standing",
+        "hashed_name": "6a021250f9bd7df44e5f2173cf03b174"
+    },
+    {
+        "file_code": "c212",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "333ec4a02c194eb0daafef8565d8b980"
+    },
+    {
+        "file_code": "c212",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "efc329e6d1b95da78798825f22c956b3"
+    },
+    {
+        "file_code": "c212",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "f47406a4b1f271fce0475b8e5d0a7a0a"
+    },
+    {
+        "file_code": "c220",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "73c60efa0734a8f378e48395241acdb8"
+    },
+    {
+        "file_code": "c220",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "4cdb80406bd991cf2bfa189b740da421"
+    },
+    {
+        "file_code": "c221",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "7b426422a983d077f8a92b90aee7c5e2"
+    },
+    {
+        "file_code": "c222",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "e6328b42f4f75b771aac090ec1562ca9"
+    },
+    {
+        "file_code": "c222",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "9f1ce90c67bc83a855b9ae472a43aefa"
+    },
+    {
+        "file_code": "c223",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "f39e66e7d8779794216a6f96c72df5e1"
+    },
+    {
+        "file_code": "c223",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "e2b5c6bfd7bfe69a7ca0469c1337d058"
+    },
+    {
+        "file_code": "c224",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "a776bc79baf870added4efacb7491f25"
+    },
+    {
+        "file_code": "c225",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "f91bcc3788ee347873aefc7cba462cb4"
+    },
+    {
+        "file_code": "c225",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "36987e9b40a91f64bd32e66a35bffa9a"
+    },
+    {
+        "file_code": "c226",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "1d3b0a8ce1a1c386c6bb0459bb54cc25"
+    },
+    {
+        "file_code": "c227",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "8d02e2304c12ac8c31df65c33760763d"
+    },
+    {
+        "file_code": "c230",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "84c5f0a2f93a80f774a8fac2616b94df"
+    },
+    {
+        "file_code": "c230",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "5c0e46e7b8d764cf387703017fcde792"
+    },
+    {
+        "file_code": "c231",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "af34106842b1177fa22301932de624a8"
+    },
+    {
+        "file_code": "c231",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "e1fca4e1ef346a606a896003faa49e8e"
+    },
+    {
+        "file_code": "c232",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "0839cc5bb077e90ebd95fc540ddfc79d"
+    },
+    {
+        "file_code": "c233",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "5606c2c11234e3e1545117bb0c66ea59"
+    },
+    {
+        "file_code": "c233",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "65ff1190556f7c83ab4fb4311cb671a0"
+    },
+    {
+        "file_code": "c234",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "56ee7bdec146d48f6625a8f34a8ac865"
+    },
+    {
+        "file_code": "c240",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "2289583a7170055d2027227dab97da1d"
+    },
+    {
+        "file_code": "c241",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "cfb7633f8ad4989643e339b70d6d812e"
+    },
+    {
+        "file_code": "c242",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "5540731bd9c96a0a3953e3dfd85a3f50"
+    },
+    {
+        "file_code": "c242",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "9f660d3be72a75e78b31e4c20052ac64"
+    },
+    {
+        "file_code": "c250",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "f22d88a18a14db46c04d4a901444adcd"
+    },
+    {
+        "file_code": "c251",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "85c98082424b64d2dc2e5a8d614464cf"
+    },
+    {
+        "file_code": "c252",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "2ec7b14f81376f3268998efbd987732e"
+    },
+    {
+        "file_code": "c253",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "8340b49678fafbce915f25e6b46f3915"
+    },
+    {
+        "file_code": "c254",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "11bee7765f8e9930e0ed6fc20e2f6713"
+    },
+    {
+        "file_code": "c255",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "8aa77a05e2e8297ad8ed44ff85583338"
+    },
+    {
+        "file_code": "c260",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "a6f0106deddc7ac1ced54be1446ebfab"
+    },
+    {
+        "file_code": "c260",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "a953e210a06848e9d3444f85348e2667"
+    },
+    {
+        "file_code": "c260",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "120b859d4d5e602eb4c334ef3fbba924"
+    },
+    {
+        "file_code": "c261",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "4ab7a3b98566cdee10accf7cfba5c95a"
+    },
+    {
+        "file_code": "c262",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "c58b22071abce3e53f9a58d162823512"
+    },
+    {
+        "file_code": "c263",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "2b7008d0506301b5a09ab306fd24cde9"
+    },
+    {
+        "file_code": "c270",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "1427c0446ab0e8a4582f9723bbf8616f"
+    },
+    {
+        "file_code": "c270",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "68b35430a2c3b7d192481f524a6fa9d4"
+    },
+    {
+        "file_code": "c270",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "3a23a2b90b153c45000bd0127e0f3b78"
+    },
+    {
+        "file_code": "c271",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "01ed97d9013691870331eb47e261cd40"
+    },
+    {
+        "file_code": "c271",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "2afb2c377b65b30a639b54a37ca8cbbc"
+    },
+    {
+        "file_code": "c271",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "22a781251797e76cb6062ea099f99a2f"
+    },
+    {
+        "file_code": "c272",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "505b339f0ed5a44775f2a540dcb06694"
+    },
+    {
+        "file_code": "c272",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "f2f8c116a3489f9d5ba31adc0a512a19"
+    },
+    {
+        "file_code": "c280",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "da55dfe18a7b3aaa25febdeb17608d60"
+    },
+    {
+        "file_code": "c280",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "61988d053befad5ad3fad738716fefde"
+    },
+    {
+        "file_code": "c281",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "a0a323c41d804208ca212d94977bcec4"
+    },
+    {
+        "file_code": "c281",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "ff212c7236530861ece1900f88dcc950"
+    },
+    {
+        "file_code": "c282",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "8fd471781deedce92bb77bc55871cfa4"
+    },
+    {
+        "file_code": "c282",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "9ea769d617f6e8ab807f101a37c21508"
+    },
+    {
+        "file_code": "c283",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "99deddb88aa686f38e6bb85b2b82b0e4"
+    },
+    {
+        "file_code": "c284",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "ae808b7aeda8920023000d438d162104"
+    },
+    {
+        "file_code": "c290",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "b49e85074ae4d4c6bae529b6e8090094"
+    },
+    {
+        "file_code": "c291",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "1abd525fa4b3784e54178fd2ce218ba7"
+    },
+    {
+        "file_code": "c300",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "68ece876c23ab7be74f06781bffb540a"
+    },
+    {
+        "file_code": "c301",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "0c4d9d7f664f4f2f1f5b55e6fe5268de"
+    },
+    {
+        "file_code": "c302",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "f9a3e56ea6d67ad75aa49273e5cdb685"
+    },
+    {
+        "file_code": "c303",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "8688959800c5fb17b32a047761db6ee3"
+    },
+    {
+        "file_code": "c304",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "f9f2ba64d0053aaef53715cee5bb55d1"
+    },
+    {
+        "file_code": "c305",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "2a175a0a5cea05de4e33a7697ae89012"
+    },
+    {
+        "file_code": "c306",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "891205167c2e2a10355314366c880b3c"
+    },
+    {
+        "file_code": "c307",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "ac0b6760822d91071531c6e4182cc4a9"
+    },
+    {
+        "file_code": "c308",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "a24e884d8e7b598e6f1895564d96c0c7"
+    },
+    {
+        "file_code": "c310",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "b36c95e329f6e7be34c2e60009638481"
+    },
+    {
+        "file_code": "c310",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "160ea869946b46fb37b766bec21f3f98"
+    },
+    {
+        "file_code": "c311",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "3be46a8abd17ef90742e4d6a50aee418"
+    },
+    {
+        "file_code": "c312",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "5873b3d23a67bbf4b2246a23a9ec7598"
+    },
+    {
+        "file_code": "c313",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "24eba15e03fb4ad554e26bbf0a7c7203"
+    },
+    {
+        "file_code": "c314",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "a45f77991fc1dfdc9779c6288c5c7316"
+    },
+    {
+        "file_code": "c315",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "a51d90dfbeebebd46c08b6fcd27a6c2f"
+    },
+    {
+        "file_code": "c321",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "e033af1dc6d3ccfadbaede078e641676"
+    },
+    {
+        "file_code": "c321",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "f1bbda77d66994baffab13b3c5f51608"
+    },
+    {
+        "file_code": "c330",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "76b4f41b87143e20a4641cb3050233bb"
+    },
+    {
+        "file_code": "c330",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "b1ebd92faeb861221d08e3b27d9c8374"
+    },
+    {
+        "file_code": "c330",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "f0fdf17b14dedc56635e5d7e13ca91a4"
+    },
+    {
+        "file_code": "c331",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "77c054ad1c50aa2aea566f0dfbfc419f"
+    },
+    {
+        "file_code": "c350",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "3f6fee8fd1da1a1c3fdbe7e3c275040c"
+    },
+    {
+        "file_code": "c350",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "03a7b404a900979ae1d5d3c88cadb840"
+    },
+    {
+        "file_code": "c350",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "ed2ef7c0bf7104e067492d37468534f4"
+    },
+    {
+        "file_code": "c351",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "9abf6bd42dcd311f3b0b2fa7042285ca"
+    },
+    {
+        "file_code": "c351",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "3601f6a5b78c64597d05cae6ee949d9c"
+    },
+    {
+        "file_code": "c352",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "4bc021442405be82d3e378fbfbfb9032"
+    },
+    {
+        "file_code": "c352",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "2ad4f6ac650d139ed518f8f20dd03482"
+    },
+    {
+        "file_code": "c352",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "6ae6cb336caa877964a5683bb1b77754"
+    },
+    {
+        "file_code": "c353",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "bd44bc0bf7390a8b02f0a9a611075abc"
+    },
+    {
+        "file_code": "c354",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "a4c3370ced7b2f863ef2b216da1eacc2"
+    },
+    {
+        "file_code": "c355",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "3bc39cc9d5c16012e72b0543efbf82df"
+    },
+    {
+        "file_code": "c361",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "1cd1bd4b623359172d04fcf12f3188b3"
+    },
+    {
+        "file_code": "c370",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "e903b0c0cb4b646ee8e2c5472ef1fc1c"
+    },
+    {
+        "file_code": "c371",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "5b7a2558479984bc3eeb5f808f3ec16d"
+    },
+    {
+        "file_code": "c380",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "1f024f79b513a87cfea5827e878350d7"
+    },
+    {
+        "file_code": "c381",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "99d8276a458b6a223e112ab304aacbee"
+    },
+    {
+        "file_code": "c381",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "8de41d53e3292972aa191f3043c56730"
+    },
+    {
+        "file_code": "c382",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "59b8c50ff1f308edcd6547a217bc7350"
+    },
+    {
+        "file_code": "c382",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "73847d7343cd7945d8cdb55fb87e26cb"
+    },
+    {
+        "file_code": "c390",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "27177ac671849295f3ac48e39e357aaf"
+    },
+    {
+        "file_code": "c390",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "5169397ca9444e95dda1d9f8fdf232cd"
+    },
+    {
+        "file_code": "c391",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "4111d9418ef5398c5d6e3e63f5a1a9be"
+    },
+    {
+        "file_code": "c391",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "70ab3b6eb1dec45b0371cfc3e2a0b2ed"
+    },
+    {
+        "file_code": "c392",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "931fdf84185b1c49716960d8ba307b03"
+    },
+    {
+        "file_code": "c400",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "68940f72626f22f2705a6ed87553dddc"
+    },
+    {
+        "file_code": "c400",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "fe00eae362c2d8fd406447a11cb5f732"
+    },
+    {
+        "file_code": "c401",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "a0841dbd7de271aef864b9bf63f2d657"
+    },
+    {
+        "file_code": "c401",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "88151c4326ed488209d9d10959d5494e"
+    },
+    {
+        "file_code": "c402",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "bb122144fc2efe2c9b81d2026d984f5e"
+    },
+    {
+        "file_code": "c403",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "88a6c17db6d63cf92531bf5a5d9e75e8"
+    },
+    {
+        "file_code": "c411",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "bf11b8646f3f7fa866b5b7d87b5ebdbf"
+    },
+    {
+        "file_code": "c412",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "7bae98eda6740a08573a71f9f32c9443"
+    },
+    {
+        "file_code": "c430",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "b3b4716639ece5d3de361d08114fd59c"
+    },
+    {
+        "file_code": "c430",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "215724d0099396a29b15582217e27eff"
+    },
+    {
+        "file_code": "c430",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "a89ffe0a9675d73eadd8cd25c4741c03"
+    },
+    {
+        "file_code": "c431",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "0d8899d29ddbb719d5e1761edfb7afc8"
+    },
+    {
+        "file_code": "c431",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "0fdfca42c361d25c5674de47d37e3db7"
+    },
+    {
+        "file_code": "c432",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "82e7cacd90cc60395dee828ebd826ee9"
+    },
+    {
+        "file_code": "c440",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "a9047c4921ca0e774de1e196d769a3cc"
+    },
+    {
+        "file_code": "c441",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "34b8125222f5b07243ee405cdcfe6263"
+    },
+    {
+        "file_code": "c450",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "36c8b1e30e5776aa86759502bc40695e"
+    },
+    {
+        "file_code": "c450",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "b4abf079940fe9f0ae3b9df8fc00c6a7"
+    },
+    {
+        "file_code": "c450",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "eab0317dd11c2ba0bccdd0d7b507acb1"
+    },
+    {
+        "file_code": "c451",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "0bd2a75ce198190ef0d00c0358734768"
+    },
+    {
+        "file_code": "c451",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "66c5b7b54ef3d3637bbfcf0f4013c940"
+    },
+    {
+        "file_code": "c451",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "e728f6b96cabe89e038f36b3ff059249"
+    },
+    {
+        "file_code": "c470",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "db19af40262c4122789980554a5aa87b"
+    },
+    {
+        "file_code": "c470",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "6005e1484c7dbac2ecd61a65bef816a1"
+    },
+    {
+        "file_code": "c470",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "9c448c46e6508f3b7e22953c95b79822"
+    },
+    {
+        "file_code": "c480",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "3d05a95c36f51846ade428247da22001"
+    },
+    {
+        "file_code": "c481",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "d9d35d2981144fc5f34a67c553af302f"
+    },
+    {
+        "file_code": "c482",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "a0b55fc1892f1ee543a7725cbb15caf4"
+    },
+    {
+        "file_code": "c490",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "e6f75fcf92358f880c20a5ff6cca4125"
+    },
+    {
+        "file_code": "c491",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "8f7348c020ec9d535d7407f43d11708f"
+    },
+    {
+        "file_code": "c500",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "d349a7fb5bdebed1747a193ffc847986"
+    },
+    {
+        "file_code": "c501",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "c9349961491100c955ebcaab94abf897"
+    },
+    {
+        "file_code": "c501",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "63107e013c4441f33a61c204cf246b11"
+    },
+    {
+        "file_code": "c502",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "002da14c39f6e1239bd9399457f46192"
+    },
+    {
+        "file_code": "c510",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "46672e5cc23ff6d695fcab64589b5fb0"
+    },
+    {
+        "file_code": "c511",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "112b8e61bb3198c42856dcc7bf3d9658"
+    },
+    {
+        "file_code": "c511",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "4bee8c924df99080bef0139a32e8d048"
+    },
+    {
+        "file_code": "c511",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "80b34e9b2d166c7e64d83f78326c23f6"
+    },
+    {
+        "file_code": "c513",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "c2295fee72e551876d1f1972632f1c8c"
+    },
+    {
+        "file_code": "c513",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "c00825afc152182454b3e139391e6168"
+    },
+    {
+        "file_code": "c513",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "f3c3c0bb2e4fbe684dae1dac665e6a12"
+    },
+    {
+        "file_code": "c514",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "b88fb1909e2b20ebad1def6b093d6172"
+    },
+    {
+        "file_code": "c514",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "239f16988f6b6d19ef84f91451ec4c58"
+    },
+    {
+        "file_code": "c520",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "876332d5b855328df76749b37b44c2fd"
+    },
+    {
+        "file_code": "c521",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "5eef1af8277fd910ea54bcc7030da1ec"
+    },
+    {
+        "file_code": "c530",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "c36221a04e33217b5488fb6725ec19ab"
+    },
+    {
+        "file_code": "c531",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "463e8eade0596594b6ba77f229b4d783"
+    },
+    {
+        "file_code": "c532",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "c671c838f463c71317852c80b4cb4a2e"
+    },
+    {
+        "file_code": "c550",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "ed9e2ef8541256f0e65607c3d0b742fc"
+    },
+    {
+        "file_code": "c550",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "d45795fcfaf1818c244ca1ac3f889280"
+    },
+    {
+        "file_code": "c551",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "1de24dcc46a26a02bbe1b69e7f26b33b"
+    },
+    {
+        "file_code": "c560",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "3aeeb66fed67ff679f2f4e22aae01c1e"
+    },
+    {
+        "file_code": "c561",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "f05cd8cbe9eb1fcd6b870d4155c954f7"
+    },
+    {
+        "file_code": "c562",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "5bd59687096b0d0b21471f5bd8dced69"
+    },
+    {
+        "file_code": "c563",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "207e8e431bbd8d9f363b1a80718ef77f"
+    },
+    {
+        "file_code": "c570",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "03bcd30d9df0b45342b61718521d87da"
+    },
+    {
+        "file_code": "c580",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "e3959b6f5a9a4560714c7b2e37d9b850"
+    },
+    {
+        "file_code": "c581",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "8d397ae518823d964797a3b4c9fba8a2"
+    },
+    {
+        "file_code": "c590",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "43d4235c6e2836555079c93c0eadb14b"
+    },
+    {
+        "file_code": "c600",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "9b1aa5ea3c3b124a318dcea48e7026ec"
+    },
+    {
+        "file_code": "c601",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "63ffc0073b0713f20ef335d35e3d29ab"
+    },
+    {
+        "file_code": "c800",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "79684f297fea0f3db940a796a429884c"
+    },
+    {
+        "file_code": "c800",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "dab24a792c0bd7b23e4728fea287f87f"
+    },
+    {
+        "file_code": "c801",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "27e03487d5322ecb7b27ae4f0a56ddea"
+    },
+    {
+        "file_code": "c802",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "dcf468fa30efee9b454b129fc407cf5f"
+    },
+    {
+        "file_code": "c803",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "b61d68c984925d4309654118403187b7"
+    },
+    {
+        "file_code": "c804",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "a5478638b2aa95d78ab6832c17efc987"
+    },
+    {
+        "file_code": "c810",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "c7f875045e08da47e47c9d8896db1aa4"
+    },
+    {
+        "file_code": "c810",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "41cfee4f9e538d9c83aa053a725c07cb"
+    },
+    {
+        "file_code": "c810",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "a042120ae176f9237c89067480ae368c"
+    },
+    {
+        "file_code": "c810",
+        "skin_code": "03",
+        "type": "standing",
+        "hashed_name": "b3446f5b9f0adccc12b75fd7bb54efa3"
+    },
+    {
+        "file_code": "c811",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "0a08d0725998ac4fe786d0787c76687e"
+    },
+    {
+        "file_code": "c811",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "871d88188ad4a264ed9a1b2ee803c00b"
+    },
+    {
+        "file_code": "c811",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "ba3a59d312bd99e9a71643d7cdee10c0"
+    },
+    {
+        "file_code": "c811",
+        "skin_code": "03",
+        "type": "standing",
+        "hashed_name": "7629b49064e9f91de794d89269bb9dba"
+    },
+    {
+        "file_code": "c812",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "5bde0b13fb207904683b8f790bb0a31f"
+    },
+    {
+        "file_code": "c813",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "38c66d369c23517021cd25a192b5dfea"
+    },
+    {
+        "file_code": "c820",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "b295c38af2597e0d023e1a6cca9fbef7"
+    },
+    {
+        "file_code": "c820",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "34aa1d5594fc02087f4da8e4d904bc6c"
+    },
+    {
+        "file_code": "c820",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "362c81f4e7349b01ddab32c391332aab"
+    },
+    {
+        "file_code": "c821",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "0d97c1b012bfabfef97c930e060a1b8e"
+    },
+    {
+        "file_code": "c821",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "f4ad97ba8ca435d9593c929187bdfd03"
+    },
+    {
+        "file_code": "c821",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "acdf422f9cdd7fb4ddc6d15605436a3a"
+    },
+    {
+        "file_code": "c822",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "e008c1afb0cb46489303ec64660adf1c"
+    },
+    {
+        "file_code": "c830",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "a4e8138690dfcb131e819c8e6291ebe6"
+    },
+    {
+        "file_code": "c830",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "1f1b95439a92909b48e21df1c644a72e"
+    },
+    {
+        "file_code": "c830",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "c64f8fafd92f84e8c0d6a2afa62c29c0"
+    },
+    {
+        "file_code": "c830",
+        "skin_code": "03",
+        "type": "standing",
+        "hashed_name": "28a1fe18c53eaa13cbed6f41ea60b818"
+    },
+    {
+        "file_code": "c831",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "8fc689fc20d092e060dec1f4429aab0a"
+    },
+    {
+        "file_code": "c831",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "32b1e991c50d363a09c2b8e18186ddbe"
+    },
+    {
+        "file_code": "c831",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "8db00e87a85b421838713a3f767928a1"
+    },
+    {
+        "file_code": "c832",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "c2da8661cba043df145bbbb56bc250a0"
+    },
+    {
+        "file_code": "c832",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "4ab129357628df0f3b4109948b81574b"
+    },
+    {
+        "file_code": "c832",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "f06a3090b8b5d880203be5a206d7d72d"
+    },
+    {
+        "file_code": "c832",
+        "skin_code": "03",
+        "type": "standing",
+        "hashed_name": "76b81c5a39def612d295af05672f0f4b"
+    },
+    {
+        "file_code": "c832",
+        "skin_code": "04",
+        "type": "standing",
+        "hashed_name": "c963e2a562b4e3c529bc623f6aa08639"
+    },
+    {
+        "file_code": "c833",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "15e9098533a820efa9a8842655a37fdf"
+    },
+    {
+        "file_code": "c834",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "e565d55b8584f0767058f94ba2c36a89"
+    },
+    {
+        "file_code": "c834",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "0d9b90d69466d3f41c0e30e9891af93a"
+    },
+    {
+        "file_code": "c834",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "90004f7b56e13a86f6f7fdc7514b0f88"
+    },
+    {
+        "file_code": "c835",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "72e49186c89f98bddcc4115b47b5bd6f"
+    },
+    {
+        "file_code": "c835",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "7be394ecda125457f73a2a05bb94dd07"
+    },
+    {
+        "file_code": "c835",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "bb607e9c22d80c46f87f6ed70dfb9389"
+    },
+    {
+        "file_code": "c836",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "4703b81ede77a3863a2988f86fd95759"
+    },
+    {
+        "file_code": "c840",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "33138f68b389bc087ce24d37448d5830"
+    },
+    {
+        "file_code": "c840",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "778f568bc12e1636a4fb8a31fa6c241f"
+    },
+    {
+        "file_code": "c840",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "b34ad0d0f172753e8e8013ce52e4ee1f"
+    },
+    {
+        "file_code": "c841",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "80165309ed62b7c02c9158e2fb3a106b"
+    },
+    {
+        "file_code": "c841",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "6318d0157fec7d40d57c3d0362ff53de"
+    },
+    {
+        "file_code": "c841",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "628057e459936337201d90894ab16c58"
+    },
+    {
+        "file_code": "c842",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "2638db7a13a87dd4d0940fe1e0c5cb3a"
+    },
+    {
+        "file_code": "c850",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "c0b57f7e19b6247d8ca88eaedea374bf"
+    },
+    {
+        "file_code": "c850",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "43c55359a1389bd9442ede6ee275702e"
+    },
+    {
+        "file_code": "c850",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "72103ef99ffc90faecc14228c2bb08e1"
+    },
+    {
+        "file_code": "c850",
+        "skin_code": "03",
+        "type": "standing",
+        "hashed_name": "cc35464edddd3d206cc4a85704cb5b00"
+    },
+    {
+        "file_code": "c851",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "4a03bd2199d971d465fe26fe9c779e0b"
+    },
+    {
+        "file_code": "c851",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "c4ebbe35a95cb625a6f898149cc971c1"
+    },
+    {
+        "file_code": "c851",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "377fac9e1c1a0e0c541e9471534428f0"
+    },
+    {
+        "file_code": "c852",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "90aa02f360aad209fa7b1fba04fa245e"
+    },
+    {
+        "file_code": "c853",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "85d36fdd9c4043dddd115322eeb738a7"
+    },
+    {
+        "file_code": "c890",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "e244034835aa53b60dc027b663e827d8"
+    },
+    {
+        "file_code": "c900",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "a5c0c3fe31276a693deac8792652b9b2"
+    },
+    {
+        "file_code": "c901",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "31ddcd14f84a3ea588b5ba3b2f85d6d9"
+    },
+    {
+        "file_code": "c902",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "b0e1e1184275f04e680ded8d343992a3"
+    },
+    {
+        "file_code": "c903",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "3a4b84db5432af8755b1f087ef059142"
+    },
+    {
+        "file_code": "c903",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "9c2627e62f2a213e7e2c8f5bf8278a82"
+    },
+    {
+        "file_code": "c904",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "c43d9c2dc16d32898491678980034c34"
+    },
+    {
+        "file_code": "c905",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "8aeb2a309f480d3474845113c0572374"
+    },
+    {
+        "file_code": "c907",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "5aee3c1e5eac67531c2c96355e24d515"
+    },
+    {
+        "file_code": "c909",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "569c72b55f9e3182159915e3527eec6b"
+    },
+    {
+        "file_code": "c910",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "61b1c2825688e7172f7e0d5b9770597d"
+    },
+    {
+        "file_code": "c910",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "06c541a0bbd5f046b3f629cf4b5f4535"
+    },
+    {
+        "file_code": "c911",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "549cecce3f299bb6764ef912daa67246"
+    },
+    {
+        "file_code": "c912",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "b636cfa00419b956795c4261996d8430"
+    },
+    {
+        "file_code": "c913",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "5b6b44f2cb3f0d476159b19ee2a38eb2"
+    },
+    {
+        "file_code": "c914",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "214d82a5843554a4eb1ad187fde484d8"
+    },
+    {
+        "file_code": "c915",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "65abe2e4fc806734d71caea9f51f5986"
+    },
+    {
+        "file_code": "c916",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "dfec5b37005de99853c3d5ad82cf311f"
+    },
+    {
+        "file_code": "c917",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "e27119dfd7e8e48b5a1c776f0a7ff460"
+    },
+    {
+        "file_code": "c918",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "d548db723c838385b39ec0c5d3f35388"
+    },
+    {
+        "file_code": "c919",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "03b544e54345374af1883e73be8ca21a"
+    },
+    {
+        "file_code": "c920",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "fe16f678124b964087124faecd7ff325"
+    },
+    {
+        "file_code": "c921",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "b9d11c3de4c8bce3d686b69d9d415178"
+    },
+    {
+        "file_code": "c922",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "601dfe7600f3c9c5796463f7ee5313be"
+    },
+    {
+        "file_code": "c923",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "20269bd55db63c648a480f43f7ddf433"
+    },
+    {
+        "file_code": "c924",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "0c37283a9f3e6aa500644f49b2117da5"
+    },
+    {
+        "file_code": "c925",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "27b5494cd672e386b00b3f4d892565a8"
+    },
+    {
+        "file_code": "c928",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "95d5c1011ec9e8c3512d168c1ffdceb8"
+    },
+    {
+        "file_code": "c929",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "6f27f679ca110efad34997341f9a4f17"
+    },
+    {
+        "file_code": "c930",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "d53ade89d9266124860420c775ae058a"
+    },
+    {
+        "file_code": "c931",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "f6245167c3eb73a8d075162e94a15103"
+    },
+    {
+        "file_code": "c931",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "6d96ca8db5896e5b008394eda12cce27"
+    },
+    {
+        "file_code": "c932",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "c64d8b67b71d096b34a7264eb50e8f64"
+    },
+    {
+        "file_code": "c933",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "fea54e4da383cfbd7293298aeb08d3ed"
+    },
+    {
+        "file_code": "c934",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "8d8ccb714e45cd2e5719b371ecf75b43"
+    },
+    {
+        "file_code": "c935",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "3bdd52f6df460c218865d5c21f8e9448"
+    },
+    {
+        "file_code": "c936",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "989f306c943720d2529da4d83f355633"
+    },
+    {
+        "file_code": "c937",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "fbcc878ddcf81ca60c75a228b42032b9"
+    },
+    {
+        "file_code": "c939",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "850568401d248b77f9a9506276d0fafe"
+    },
+    {
+        "file_code": "c940",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "f713e8ff42588aa8217ecd7ae87848c3"
+    },
+    {
+        "file_code": "c941",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "aa7f2d412c7af5c631db217e2e4c5083"
+    },
+    {
+        "file_code": "c942",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "abaecfb7c2b7a8bcff1bb1c3b480d1f5"
+    },
+    {
+        "file_code": "c943",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "d7e18b7f59e1904c20e9cf540ced4841"
+    },
+    {
+        "file_code": "c944",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "b2f13faa96491a3a4643548ac9ac5b00"
+    },
+    {
+        "file_code": "c945",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "551d3223d58daf35970a54508157dbcb"
+    },
+    {
+        "file_code": "c946",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "c547580525d08d90502538ade558d359"
+    },
+    {
+        "file_code": "c947",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "320ed43bcb44b3dcde1d51e0b60316c2"
+    },
+    {
+        "file_code": "c948",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "cbddefeb9b064c31a56bc1851bd3cba5"
+    },
+    {
+        "file_code": "c951",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "6632c4b51368bbece9d55b4201ff91c5"
+    },
+    {
+        "file_code": "c952",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "0f1a7608b17b400b1924c3374324d1f1"
+    },
+    {
+        "file_code": "c960",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "3573c3f271762e21b22f43f2c8625023"
+    },
+    {
+        "file_code": "c961",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "cf11283bf6b2d626599e1173dc1aba81"
+    },
+    {
+        "file_code": "c962",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "46a1d14355e1ff23418e47bc63fb6477"
+    },
+    {
+        "file_code": "c963",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "777aa38cb95f8f01194d7c4fd9e8d630"
+    },
+    {
+        "file_code": "c964",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "13c5d679c8b7267677cdf99582c63ca5"
+    },
+    {
+        "file_code": "c965",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "374958b956c0ed744ed51cfb0f6f7893"
+    },
+    {
+        "file_code": "c966",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "9f04e5a0b3f71346c2097dc5de762dec"
+    },
+    {
+        "file_code": "c967",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "ea1a61cba8f78aa8f0293bf2df13a98b"
+    },
+    {
+        "file_code": "c968",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "d4150d569aa1859f9ccac600c3a27961"
+    },
+    {
+        "file_code": "c969",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "91206ce35d58e5630059c5a4b787b787"
+    },
+    {
+        "file_code": "c970",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "aab6240dee2a020b5b587ffdfdd510be"
+    },
+    {
+        "file_code": "c971",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "bad3461576d7f47a20c001d22518e950"
+    },
+    {
+        "file_code": "c971",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "4bf1a3efac42c06566418d19948eb891"
+    },
+    {
+        "file_code": "c973",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "42f51cd7893b8ad28d25d8283ddefda1"
+    },
+    {
+        "file_code": "c974",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "2742f88a4f69f1e30b39f154e5d36436"
+    },
+    {
+        "file_code": "c975",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "8986a470adc4642e935f0f53e0d31c1c"
+    },
+    {
+        "file_code": "c976",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "955ffe8c14957b5205e5ebbba29cb24b"
+    },
+    {
+        "file_code": "c977",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "4b82a5fbd50d3cd8c0e556cc2f47a2af"
+    },
+    {
+        "file_code": "c979",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "f72a34989f792c3be464a732ea43b240"
+    },
+    {
+        "file_code": "c980",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "c1f1e120e7a17c89ab0fc92ac4dba38b"
+    },
+    {
+        "file_code": "c981",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "bd915659ef16d23e657d6ab67ba44bcd"
+    },
+    {
+        "file_code": "c982",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "00552d6311938970bb7f3302008d2984"
+    },
+    {
+        "file_code": "c983",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "08134377c354c275d7ca43e8244a63c7"
+    },
+    {
+        "file_code": "c984",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "e2a7401e3b36cebf481ccb29b31d4da1"
+    },
+    {
+        "file_code": "c984",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "e377cd2ef7c5d1e80be5cf5441ad8b76"
+    },
+    {
+        "file_code": "c985",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "9d459829f5531d08d772acc0131a20d3"
+    },
+    {
+        "file_code": "c986",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "59ddd986f1d7dc3d867052d40dce414e"
+    },
+    {
+        "file_code": "c988",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "4601b2360da55ae900435d3ff100de51"
+    },
+    {
+        "file_code": "c989",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "a44658cc67082f89367fbc3d1ae4e05d"
+    },
+    {
+        "file_code": "c990",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "fce9b8a5fd8268b037262c58abc0af01"
+    },
+    {
+        "file_code": "c991",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "3c1915aa46b2eb0cff8171805a0f84e1"
+    },
+    {
+        "file_code": "c992",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "4c42c8351dc7280d9327abc2e094731f"
+    },
+    {
+        "file_code": "c993",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "552514fd13b366b58bc8a8144cb19943"
+    },
+    {
+        "file_code": "c994",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "3ff1a951178bcd6bb10f7a333dce2e7f"
+    },
+    {
+        "file_code": "c996",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "9bb87d2da44d640d2a3aee11fa487d80"
+    },
+    {
+        "file_code": "c997",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "9a410a5a1490a3d47e6dab67dda23495"
+    },
+    {
+        "file_code": "c998",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "408d722a8a2ee45fdd1510a5a1ec41ac"
+    },
+    {
+        "file_code": "c999",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "42bc86118ece7057c02154ecbd9357c3"
+    }
+]

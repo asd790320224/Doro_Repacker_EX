@@ -1,0 +1,2624 @@
+[
+    {
+        "file_code": "c010",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c010/00_hd_d8c117edd0dac8ef86ac7013fbc4f219.bundle"
+    },
+    {
+        "file_code": "c010",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c010/01_hd_e43814a33171073b4e08e916ebfcf2dc.bundle"
+    },
+    {
+        "file_code": "c010",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c010/02_hd_77240a0c90b1e1a1ecde63afd67e5636.bundle"
+    },
+    {
+        "file_code": "c011",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c011/00_hd_24c263cd7a51973c8cc73d42738d9053.bundle"
+    },
+    {
+        "file_code": "c011",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c011/01_hd_3d5446f68fdb95f8ae1430369df07aaf.bundle"
+    },
+    {
+        "file_code": "c012",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c012/00_hd_e8f0d9f5f8032fd49447e8747fb02cc5.bundle"
+    },
+    {
+        "file_code": "c013",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c013/00_hd_e9890c11dd3aa8367a08db3246979c00.bundle"
+    },
+    {
+        "file_code": "c014",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c014/00_hd_a51864a53d0d4bf79f34eecb28bb6d3d.bundle"
+    },
+    {
+        "file_code": "c015",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c015/00_hd_351aab7d86409445dc46cd6238c21ed7.bundle"
+    },
+    {
+        "file_code": "c016",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c016/00_hd_040051810342b37d9e255bbb3ee6091c.bundle"
+    },
+    {
+        "file_code": "c016",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c016/01_hd_ea252f17c698fcd241384058f305b019.bundle"
+    },
+    {
+        "file_code": "c016",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c016/02_hd_34f0250fbf645e0e351ec34837fbcad6.bundle"
+    },
+    {
+        "file_code": "c017",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c017/00_hd_7f9120a8a0fbc7352721ddbe1aaed2e2.bundle"
+    },
+    {
+        "file_code": "c020",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c020/00_hd_c809e4c47281ec2aec86e219d65259e2.bundle"
+    },
+    {
+        "file_code": "c022",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c022/00_hd_dd5d2d510b61fa40ec2d08178906ac68.bundle"
+    },
+    {
+        "file_code": "c022",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c022/01_hd_c5b3c2090dfaf3ec80532f52c0e2d645.bundle"
+    },
+    {
+        "file_code": "c023",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c023/00_hd_00596f19c52608d864fb3b646e71410a.bundle"
+    },
+    {
+        "file_code": "c030",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c030/00_hd_ca151bf5d156526938cd7c820d358ae8.bundle"
+    },
+    {
+        "file_code": "c030",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c030/01_hd_23549cfc78d53821618e6f1b3f72394e.bundle"
+    },
+    {
+        "file_code": "c030",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c030/02_hd_89811da3baac8975d6563c0ca2575069.bundle"
+    },
+    {
+        "file_code": "c032",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c032/00_hd_34841b1ba80748730d5bab1d5b0acdaf.bundle"
+    },
+    {
+        "file_code": "c032",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c032/01_hd_bfa8e4576ad0cf22e5efbcb04ba589b1.bundle"
+    },
+    {
+        "file_code": "c033",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c033/00_hd_100311b57105255c1473efc033bf557f.bundle"
+    },
+    {
+        "file_code": "c040",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c040/00_hd_60f3a448160aa5b54a39dac527b10faf.bundle"
+    },
+    {
+        "file_code": "c041",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c041/00_hd_eb70d347a28a043dee2a7f478109d42e.bundle"
+    },
+    {
+        "file_code": "c041",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c041/01_hd_aaed5ba38f2a366e936b4a78e6ab3359.bundle"
+    },
+    {
+        "file_code": "c043",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c043/00_hd_7f45aa7183677c7d0cb375ef9dedcd6f.bundle"
+    },
+    {
+        "file_code": "c043",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c043/01_hd_ab7295675b9fcfea8c8668ae0e054ced.bundle"
+    },
+    {
+        "file_code": "c043",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c043/02_hd_e47ee3990002660b742abc24915f8af5.bundle"
+    },
+    {
+        "file_code": "c060",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c060/00_hd_b2caebd1f72bab2e88a83d53d72bd8dc.bundle"
+    },
+    {
+        "file_code": "c061",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c061/00_hd_d43cdad7031c8fe725f2433a0209777d.bundle"
+    },
+    {
+        "file_code": "c062",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c062/00_hd_fc180e1f5b2274cbb7904aa2c5a2d46f.bundle"
+    },
+    {
+        "file_code": "c070",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c070/00_hd_3e50f358ca712c41579b7117a1a721b8.bundle"
+    },
+    {
+        "file_code": "c070",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c070/01_hd_496b9cae14d3456fd099ed15e3408403.bundle"
+    },
+    {
+        "file_code": "c070",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c070/02_hd_5dfc3f5418e1c9b96bdaf2a9c6423f52.bundle"
+    },
+    {
+        "file_code": "c071",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c071/00_hd_cd10b681fac435cead3a52a3f04ad9ea.bundle"
+    },
+    {
+        "file_code": "c072",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c072/00_hd_110290490ed53393f5c42b4705c04f04.bundle"
+    },
+    {
+        "file_code": "c072",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c072/01_hd_3bff3fbfadf8d0a6a28ef7cc7a1318ba.bundle"
+    },
+    {
+        "file_code": "c072",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c072/02_hd_771e8eb20813a77f3ab997ab334209a5.bundle"
+    },
+    {
+        "file_code": "c072",
+        "skin_code": "04",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c072/04_hd_f714a556e0c7831e90dd85947052dbfe.bundle"
+    },
+    {
+        "file_code": "c080",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c080/00_hd_0dd8e8c2a619959d489a1395f56a4965.bundle"
+    },
+    {
+        "file_code": "c080",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c080/01_hd_79c95ace71359274492b40329305f067.bundle"
+    },
+    {
+        "file_code": "c080",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c080/02_hd_f3e6bbefecf2da11fdaa3060676a2a6e.bundle"
+    },
+    {
+        "file_code": "c082",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c082/00_hd_88b99b40ed26671e59c6551b304a1414.bundle"
+    },
+    {
+        "file_code": "c082",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c082/01_hd_817353c42610ce03542a4199fc9386fd.bundle"
+    },
+    {
+        "file_code": "c082",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c082/02_hd_2da53dd3667df1ecfa1770905fd98e75.bundle"
+    },
+    {
+        "file_code": "c090",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c090/00_hd_c366bdfa4a6ebc2a247320bccb590731.bundle"
+    },
+    {
+        "file_code": "c090",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c090/01_hd_1d500443791842868d5e7bc288cd2f37.bundle"
+    },
+    {
+        "file_code": "c090",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c090/02_hd_6ac2c8a011a4ebb7cac91b684523cdf0.bundle"
+    },
+    {
+        "file_code": "c091",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c091/00_hd_e81ca43c5a312dcdd889a42ede2685dc.bundle"
+    },
+    {
+        "file_code": "c091",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c091/01_hd_4e75fe2b9b742a377246c04cde8dc0bc.bundle"
+    },
+    {
+        "file_code": "c092",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c092/00_hd_b8c47d5aa00c24d7888708326ae33a50.bundle"
+    },
+    {
+        "file_code": "c093",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c093/00_hd_eb89349da5d9b165d4c06c4888e6f1b7.bundle"
+    },
+    {
+        "file_code": "c094",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c094/00_hd_5a443bfe9f826e9081633e3d2d9d4ae7.bundle"
+    },
+    {
+        "file_code": "c095",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c095/00_hd_ae06b7d3a46978a88b6b62ff366647ec.bundle"
+    },
+    {
+        "file_code": "c095",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c095/01_hd_3ada27bae19fd02973c4056d9b85d2cd.bundle"
+    },
+    {
+        "file_code": "c100",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c100/00_hd_9f82b21df47f1d0d6f13aa3796c9633d.bundle"
+    },
+    {
+        "file_code": "c101",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c101/00_hd_6250768c9311194d2dca7172d89e3f9b.bundle"
+    },
+    {
+        "file_code": "c101",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c101/01_hd_6e20cd83d4f197e17d40882448cfc9e6.bundle"
+    },
+    {
+        "file_code": "c101",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c101/02_hd_06fa7848adae0904adf8e4dff07e423c.bundle"
+    },
+    {
+        "file_code": "c102",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c102/00_hd_84c1e0b96026b5fbf829c2f33d830ec9.bundle"
+    },
+    {
+        "file_code": "c102",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c102/01_hd_10539b1f6c470a204d68cda870985bf7.bundle"
+    },
+    {
+        "file_code": "c103",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c103/00_hd_919f5b01868a16138b91780ed8ba9364.bundle"
+    },
+    {
+        "file_code": "c104",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c104/00_hd_cfe364dd2b5c6c5f37e182fed7f27b12.bundle"
+    },
+    {
+        "file_code": "c105",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c105/00_hd_3af660598dfc2167bcdc0120107aa149.bundle"
+    },
+    {
+        "file_code": "c110",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c110/00_hd_46fa0a0bc4964dc6c64cb97baa58214b.bundle"
+    },
+    {
+        "file_code": "c111",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c111/00_hd_9f62ba1c1e40f49621a1c8269cb88f75.bundle"
+    },
+    {
+        "file_code": "c112",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c112/00_hd_f046782afaf98bb8be83f726ce33f4d8.bundle"
+    },
+    {
+        "file_code": "c112",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c112/01_hd_17dd136b5d94268b4806ec04e7bf3b6f.bundle"
+    },
+    {
+        "file_code": "c112",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c112/02_hd_722675d0aa9de8fe16bbf816624ee8ea.bundle"
+    },
+    {
+        "file_code": "c120",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c120/00_hd_e862e7616ae6c616eeb214229047b45a.bundle"
+    },
+    {
+        "file_code": "c121",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c121/00_hd_62b7faf7bf2d684d0d3c5479a3b7260e.bundle"
+    },
+    {
+        "file_code": "c130",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c130/00_hd_5b759eb05219f01ca3955f431badb6c6.bundle"
+    },
+    {
+        "file_code": "c130",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c130/01_hd_ceb55c3f6624119543c594efd665017f.bundle"
+    },
+    {
+        "file_code": "c131",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c131/00_hd_60c47210f30932b716bbbce46f9e766f.bundle"
+    },
+    {
+        "file_code": "c131",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c131/01_hd_ce3fd07716c55bad733b3d5bc69b89d8.bundle"
+    },
+    {
+        "file_code": "c132",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c132/00_hd_9ad3c2883b8b62236929419780f2f4f4.bundle"
+    },
+    {
+        "file_code": "c140",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c140/00_hd_2df5433ae84139934ba59a4d35c48f46.bundle"
+    },
+    {
+        "file_code": "c140",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c140/01_hd_ec9be4366e20f5a3c1529460d4f5d037.bundle"
+    },
+    {
+        "file_code": "c140",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c140/02_hd_6b6179e9dde7d3b7e1ab663a05fab334.bundle"
+    },
+    {
+        "file_code": "c141",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c141/00_hd_72c47b608308e6857925ffbf1e6576c7.bundle"
+    },
+    {
+        "file_code": "c141",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c141/01_hd_de30901583c08f898c527c0300ad123c.bundle"
+    },
+    {
+        "file_code": "c142",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c142/00_hd_199b7f4e0f994c42ae166a1bb40048b0.bundle"
+    },
+    {
+        "file_code": "c142",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c142/01_hd_d3d18eaccabacb8e39aef62acfd544e2.bundle"
+    },
+    {
+        "file_code": "c143",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c143/00_hd_1d16e5f4563f0da8bbcea0b32c185e87.bundle"
+    },
+    {
+        "file_code": "c150",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c150/00_hd_6a56a624019267ad6f077568fb5df2c5.bundle"
+    },
+    {
+        "file_code": "c150",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c150/01_hd_02fc1c8e66b8dd56d44520858aa2c17e.bundle"
+    },
+    {
+        "file_code": "c150",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c150/02_hd_37b37468044d5e7c227d3766adc3bd5d.bundle"
+    },
+    {
+        "file_code": "c160",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c160/00_hd_e75b1340a29bd2603a6ee09fd70ab7c2.bundle"
+    },
+    {
+        "file_code": "c160",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c160/01_hd_166ca466b645d4fcd76f24f941245433.bundle"
+    },
+    {
+        "file_code": "c161",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c161/00_hd_12b47ed7c670f779640f157338954fe2.bundle"
+    },
+    {
+        "file_code": "c162",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c162/00_hd_a4fb613c055c108e0b5872a110fdd799.bundle"
+    },
+    {
+        "file_code": "c162",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c162/01_hd_293727754876f8d7d52097c5ab09b973.bundle"
+    },
+    {
+        "file_code": "c170",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c170/00_hd_1588bff0f0b362de5a389d429be68b8a.bundle"
+    },
+    {
+        "file_code": "c170",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c170/01_hd_c38cc8f24cef28c764d053936416117d.bundle"
+    },
+    {
+        "file_code": "c170",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c170/02_hd_6a3f715f8181c632347c88b02ce2eaa5.bundle"
+    },
+    {
+        "file_code": "c170",
+        "skin_code": "03",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c170/03_hd_8d063f8c7dd4c49c40d8e13a5e613571.bundle"
+    },
+    {
+        "file_code": "c171",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c171/00_hd_534e7acb1da13e3bf9ee937f2c55fe1d.bundle"
+    },
+    {
+        "file_code": "c172",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c172/00_hd_eab39047d84e9eb585abe6fbc4b7d893.bundle"
+    },
+    {
+        "file_code": "c180",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c180/00_hd_ed7d7f0cc92604df5d851f1d3c7584cd.bundle"
+    },
+    {
+        "file_code": "c180",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c180/01_hd_15e18c67bf284442598fb566ec5e2cff.bundle"
+    },
+    {
+        "file_code": "c181",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c181/00_hd_44846964da22c35d6c2acf73f3bc8a80.bundle"
+    },
+    {
+        "file_code": "c181",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c181/01_hd_1cdae937c654c0e573baa15f7f181fe9.bundle"
+    },
+    {
+        "file_code": "c181",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c181/02_hd_5fd88d3cb74483d0b637b26ae8555df1.bundle"
+    },
+    {
+        "file_code": "c182",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c182/00_hd_310608d99cf8c4d3d0ad09f091036436.bundle"
+    },
+    {
+        "file_code": "c183",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c183/00_hd_c909f78e781bbfb51cbe02de5a38a1d9.bundle"
+    },
+    {
+        "file_code": "c190",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c190/00_hd_aac0c7262f8417474ceaf72e075d71fa.bundle"
+    },
+    {
+        "file_code": "c191",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c191/00_hd_ebd6122eb3ad06bb95b6e5d4d9ede4b5.bundle"
+    },
+    {
+        "file_code": "c191",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c191/01_hd_bef42a8caff950fabb18d22bf0b380fb.bundle"
+    },
+    {
+        "file_code": "c192",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c192/00_hd_00ca040b428389e1818b31c6008e755f.bundle"
+    },
+    {
+        "file_code": "c192",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c192/01_hd_f5f03b0df7bda9c59e271ca4fee017ed.bundle"
+    },
+    {
+        "file_code": "c192",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c192/02_hd_ee5c310a70576e84f36bcf41f9fae124.bundle"
+    },
+    {
+        "file_code": "c193",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c193/00_hd_b335f911d922af1c754a0b6fa0812067.bundle"
+    },
+    {
+        "file_code": "c194",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c194/00_hd_83f9327c03b304b335d27d2d2d18a1e4.bundle"
+    },
+    {
+        "file_code": "c195",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c195/00_hd_ba81648d022e225e39e9abc82b853bfe.bundle"
+    },
+    {
+        "file_code": "c200",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c200/00_hd_6e2a238f5164c9866c510881793a7d79.bundle"
+    },
+    {
+        "file_code": "c200",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c200/01_hd_f9d838d56725c5e579d06af6789ae014.bundle"
+    },
+    {
+        "file_code": "c201",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c201/00_hd_0645514f725619b903d4566cfbfa1435.bundle"
+    },
+    {
+        "file_code": "c201",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c201/01_hd_1a32ebec210eb6bccca64b762f3c1612.bundle"
+    },
+    {
+        "file_code": "c202",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c202/00_hd_3abaffc837b2c3f94c98be87de7b7bee.bundle"
+    },
+    {
+        "file_code": "c202",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c202/01_hd_2d3b5be27ae64d25478f623da2067eb0.bundle"
+    },
+    {
+        "file_code": "c203",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c203/00_hd_ae1c3a67cdc2d7b0d5a8cbb22ef4d1a6.bundle"
+    },
+    {
+        "file_code": "c210",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c210/00_hd_87bbedbe996fd26bbcc4164fb963ef02.bundle"
+    },
+    {
+        "file_code": "c210",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c210/01_hd_7570968c78b353baa10e34a9e443855e.bundle"
+    },
+    {
+        "file_code": "c210",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c210/02_hd_a3ffc919dfe3ec538725573ab1208ace.bundle"
+    },
+    {
+        "file_code": "c210",
+        "skin_code": "03",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c210/03_hd_6a021250f9bd7df44e5f2173cf03b174.bundle"
+    },
+    {
+        "file_code": "c212",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c212/00_hd_333ec4a02c194eb0daafef8565d8b980.bundle"
+    },
+    {
+        "file_code": "c212",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c212/01_hd_efc329e6d1b95da78798825f22c956b3.bundle"
+    },
+    {
+        "file_code": "c212",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c212/02_hd_f47406a4b1f271fce0475b8e5d0a7a0a.bundle"
+    },
+    {
+        "file_code": "c220",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c220/00_hd_73c60efa0734a8f378e48395241acdb8.bundle"
+    },
+    {
+        "file_code": "c220",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c220/01_hd_4cdb80406bd991cf2bfa189b740da421.bundle"
+    },
+    {
+        "file_code": "c221",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c221/00_hd_7b426422a983d077f8a92b90aee7c5e2.bundle"
+    },
+    {
+        "file_code": "c222",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c222/00_hd_e6328b42f4f75b771aac090ec1562ca9.bundle"
+    },
+    {
+        "file_code": "c222",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c222/01_hd_9f1ce90c67bc83a855b9ae472a43aefa.bundle"
+    },
+    {
+        "file_code": "c223",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c223/00_hd_f39e66e7d8779794216a6f96c72df5e1.bundle"
+    },
+    {
+        "file_code": "c223",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c223/01_hd_e2b5c6bfd7bfe69a7ca0469c1337d058.bundle"
+    },
+    {
+        "file_code": "c224",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c224/00_hd_a776bc79baf870added4efacb7491f25.bundle"
+    },
+    {
+        "file_code": "c225",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c225/00_hd_f91bcc3788ee347873aefc7cba462cb4.bundle"
+    },
+    {
+        "file_code": "c225",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c225/01_hd_36987e9b40a91f64bd32e66a35bffa9a.bundle"
+    },
+    {
+        "file_code": "c226",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c226/00_hd_1d3b0a8ce1a1c386c6bb0459bb54cc25.bundle"
+    },
+    {
+        "file_code": "c227",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c227/00_hd_8d02e2304c12ac8c31df65c33760763d.bundle"
+    },
+    {
+        "file_code": "c230",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c230/00_hd_84c5f0a2f93a80f774a8fac2616b94df.bundle"
+    },
+    {
+        "file_code": "c230",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c230/01_hd_5c0e46e7b8d764cf387703017fcde792.bundle"
+    },
+    {
+        "file_code": "c231",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c231/00_hd_af34106842b1177fa22301932de624a8.bundle"
+    },
+    {
+        "file_code": "c231",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c231/01_hd_e1fca4e1ef346a606a896003faa49e8e.bundle"
+    },
+    {
+        "file_code": "c232",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c232/00_hd_0839cc5bb077e90ebd95fc540ddfc79d.bundle"
+    },
+    {
+        "file_code": "c233",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c233/00_hd_5606c2c11234e3e1545117bb0c66ea59.bundle"
+    },
+    {
+        "file_code": "c233",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c233/01_hd_65ff1190556f7c83ab4fb4311cb671a0.bundle"
+    },
+    {
+        "file_code": "c234",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c234/00_hd_56ee7bdec146d48f6625a8f34a8ac865.bundle"
+    },
+    {
+        "file_code": "c240",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c240/00_hd_2289583a7170055d2027227dab97da1d.bundle"
+    },
+    {
+        "file_code": "c241",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c241/00_hd_cfb7633f8ad4989643e339b70d6d812e.bundle"
+    },
+    {
+        "file_code": "c242",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c242/00_hd_5540731bd9c96a0a3953e3dfd85a3f50.bundle"
+    },
+    {
+        "file_code": "c242",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c242/01_hd_9f660d3be72a75e78b31e4c20052ac64.bundle"
+    },
+    {
+        "file_code": "c250",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c250/00_hd_f22d88a18a14db46c04d4a901444adcd.bundle"
+    },
+    {
+        "file_code": "c251",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c251/00_hd_85c98082424b64d2dc2e5a8d614464cf.bundle"
+    },
+    {
+        "file_code": "c252",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c252/00_hd_2ec7b14f81376f3268998efbd987732e.bundle"
+    },
+    {
+        "file_code": "c253",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c253/00_hd_8340b49678fafbce915f25e6b46f3915.bundle"
+    },
+    {
+        "file_code": "c254",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c254/00_hd_11bee7765f8e9930e0ed6fc20e2f6713.bundle"
+    },
+    {
+        "file_code": "c255",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c255/00_hd_8aa77a05e2e8297ad8ed44ff85583338.bundle"
+    },
+    {
+        "file_code": "c260",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c260/00_hd_a6f0106deddc7ac1ced54be1446ebfab.bundle"
+    },
+    {
+        "file_code": "c260",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c260/01_hd_a953e210a06848e9d3444f85348e2667.bundle"
+    },
+    {
+        "file_code": "c260",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c260/02_hd_120b859d4d5e602eb4c334ef3fbba924.bundle"
+    },
+    {
+        "file_code": "c261",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c261/00_hd_4ab7a3b98566cdee10accf7cfba5c95a.bundle"
+    },
+    {
+        "file_code": "c262",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c262/00_hd_c58b22071abce3e53f9a58d162823512.bundle"
+    },
+    {
+        "file_code": "c263",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c263/00_hd_2b7008d0506301b5a09ab306fd24cde9.bundle"
+    },
+    {
+        "file_code": "c270",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c270/00_hd_1427c0446ab0e8a4582f9723bbf8616f.bundle"
+    },
+    {
+        "file_code": "c270",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c270/01_hd_68b35430a2c3b7d192481f524a6fa9d4.bundle"
+    },
+    {
+        "file_code": "c270",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c270/02_hd_3a23a2b90b153c45000bd0127e0f3b78.bundle"
+    },
+    {
+        "file_code": "c271",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c271/00_hd_01ed97d9013691870331eb47e261cd40.bundle"
+    },
+    {
+        "file_code": "c271",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c271/01_hd_2afb2c377b65b30a639b54a37ca8cbbc.bundle"
+    },
+    {
+        "file_code": "c271",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c271/02_hd_22a781251797e76cb6062ea099f99a2f.bundle"
+    },
+    {
+        "file_code": "c272",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c272/00_hd_505b339f0ed5a44775f2a540dcb06694.bundle"
+    },
+    {
+        "file_code": "c272",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c272/01_hd_f2f8c116a3489f9d5ba31adc0a512a19.bundle"
+    },
+    {
+        "file_code": "c280",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c280/00_hd_da55dfe18a7b3aaa25febdeb17608d60.bundle"
+    },
+    {
+        "file_code": "c280",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c280/01_hd_61988d053befad5ad3fad738716fefde.bundle"
+    },
+    {
+        "file_code": "c281",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c281/00_hd_a0a323c41d804208ca212d94977bcec4.bundle"
+    },
+    {
+        "file_code": "c281",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c281/01_hd_ff212c7236530861ece1900f88dcc950.bundle"
+    },
+    {
+        "file_code": "c282",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c282/00_hd_8fd471781deedce92bb77bc55871cfa4.bundle"
+    },
+    {
+        "file_code": "c282",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c282/01_hd_9ea769d617f6e8ab807f101a37c21508.bundle"
+    },
+    {
+        "file_code": "c283",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c283/00_hd_99deddb88aa686f38e6bb85b2b82b0e4.bundle"
+    },
+    {
+        "file_code": "c284",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c284/00_hd_ae808b7aeda8920023000d438d162104.bundle"
+    },
+    {
+        "file_code": "c290",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c290/00_hd_b49e85074ae4d4c6bae529b6e8090094.bundle"
+    },
+    {
+        "file_code": "c291",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c291/00_hd_1abd525fa4b3784e54178fd2ce218ba7.bundle"
+    },
+    {
+        "file_code": "c300",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c300/00_hd_68ece876c23ab7be74f06781bffb540a.bundle"
+    },
+    {
+        "file_code": "c301",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c301/00_hd_0c4d9d7f664f4f2f1f5b55e6fe5268de.bundle"
+    },
+    {
+        "file_code": "c302",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c302/00_hd_f9a3e56ea6d67ad75aa49273e5cdb685.bundle"
+    },
+    {
+        "file_code": "c303",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c303/00_hd_8688959800c5fb17b32a047761db6ee3.bundle"
+    },
+    {
+        "file_code": "c304",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c304/00_hd_f9f2ba64d0053aaef53715cee5bb55d1.bundle"
+    },
+    {
+        "file_code": "c305",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c305/00_hd_2a175a0a5cea05de4e33a7697ae89012.bundle"
+    },
+    {
+        "file_code": "c306",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c306/00_hd_891205167c2e2a10355314366c880b3c.bundle"
+    },
+    {
+        "file_code": "c307",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c307/00_hd_ac0b6760822d91071531c6e4182cc4a9.bundle"
+    },
+    {
+        "file_code": "c308",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c308/00_hd_a24e884d8e7b598e6f1895564d96c0c7.bundle"
+    },
+    {
+        "file_code": "c310",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c310/00_hd_b36c95e329f6e7be34c2e60009638481.bundle"
+    },
+    {
+        "file_code": "c310",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c310/01_hd_160ea869946b46fb37b766bec21f3f98.bundle"
+    },
+    {
+        "file_code": "c311",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c311/00_hd_3be46a8abd17ef90742e4d6a50aee418.bundle"
+    },
+    {
+        "file_code": "c312",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c312/00_hd_5873b3d23a67bbf4b2246a23a9ec7598.bundle"
+    },
+    {
+        "file_code": "c313",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c313/00_hd_24eba15e03fb4ad554e26bbf0a7c7203.bundle"
+    },
+    {
+        "file_code": "c314",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c314/00_hd_a45f77991fc1dfdc9779c6288c5c7316.bundle"
+    },
+    {
+        "file_code": "c315",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c315/00_hd_a51d90dfbeebebd46c08b6fcd27a6c2f.bundle"
+    },
+    {
+        "file_code": "c321",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c321/00_hd_e033af1dc6d3ccfadbaede078e641676.bundle"
+    },
+    {
+        "file_code": "c321",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c321/01_hd_f1bbda77d66994baffab13b3c5f51608.bundle"
+    },
+    {
+        "file_code": "c330",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c330/00_hd_76b4f41b87143e20a4641cb3050233bb.bundle"
+    },
+    {
+        "file_code": "c330",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c330/01_hd_b1ebd92faeb861221d08e3b27d9c8374.bundle"
+    },
+    {
+        "file_code": "c330",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c330/02_hd_f0fdf17b14dedc56635e5d7e13ca91a4.bundle"
+    },
+    {
+        "file_code": "c331",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c331/00_hd_77c054ad1c50aa2aea566f0dfbfc419f.bundle"
+    },
+    {
+        "file_code": "c350",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c350/00_hd_3f6fee8fd1da1a1c3fdbe7e3c275040c.bundle"
+    },
+    {
+        "file_code": "c350",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c350/01_hd_03a7b404a900979ae1d5d3c88cadb840.bundle"
+    },
+    {
+        "file_code": "c350",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c350/02_hd_ed2ef7c0bf7104e067492d37468534f4.bundle"
+    },
+    {
+        "file_code": "c351",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c351/00_hd_9abf6bd42dcd311f3b0b2fa7042285ca.bundle"
+    },
+    {
+        "file_code": "c351",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c351/01_hd_3601f6a5b78c64597d05cae6ee949d9c.bundle"
+    },
+    {
+        "file_code": "c352",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c352/00_hd_4bc021442405be82d3e378fbfbfb9032.bundle"
+    },
+    {
+        "file_code": "c352",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c352/01_hd_2ad4f6ac650d139ed518f8f20dd03482.bundle"
+    },
+    {
+        "file_code": "c352",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c352/02_hd_6ae6cb336caa877964a5683bb1b77754.bundle"
+    },
+    {
+        "file_code": "c353",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c353/00_hd_bd44bc0bf7390a8b02f0a9a611075abc.bundle"
+    },
+    {
+        "file_code": "c354",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c354/00_hd_a4c3370ced7b2f863ef2b216da1eacc2.bundle"
+    },
+    {
+        "file_code": "c355",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c355/00_hd_3bc39cc9d5c16012e72b0543efbf82df.bundle"
+    },
+    {
+        "file_code": "c361",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c361/00_hd_1cd1bd4b623359172d04fcf12f3188b3.bundle"
+    },
+    {
+        "file_code": "c370",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c370/00_hd_e903b0c0cb4b646ee8e2c5472ef1fc1c.bundle"
+    },
+    {
+        "file_code": "c371",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c371/00_hd_5b7a2558479984bc3eeb5f808f3ec16d.bundle"
+    },
+    {
+        "file_code": "c380",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c380/00_hd_1f024f79b513a87cfea5827e878350d7.bundle"
+    },
+    {
+        "file_code": "c381",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c381/00_hd_99d8276a458b6a223e112ab304aacbee.bundle"
+    },
+    {
+        "file_code": "c381",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c381/01_hd_8de41d53e3292972aa191f3043c56730.bundle"
+    },
+    {
+        "file_code": "c382",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c382/00_hd_59b8c50ff1f308edcd6547a217bc7350.bundle"
+    },
+    {
+        "file_code": "c382",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c382/01_hd_73847d7343cd7945d8cdb55fb87e26cb.bundle"
+    },
+    {
+        "file_code": "c390",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c390/00_hd_27177ac671849295f3ac48e39e357aaf.bundle"
+    },
+    {
+        "file_code": "c390",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c390/01_hd_5169397ca9444e95dda1d9f8fdf232cd.bundle"
+    },
+    {
+        "file_code": "c391",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c391/00_hd_4111d9418ef5398c5d6e3e63f5a1a9be.bundle"
+    },
+    {
+        "file_code": "c391",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c391/01_hd_70ab3b6eb1dec45b0371cfc3e2a0b2ed.bundle"
+    },
+    {
+        "file_code": "c392",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c392/00_hd_931fdf84185b1c49716960d8ba307b03.bundle"
+    },
+    {
+        "file_code": "c400",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c400/00_hd_68940f72626f22f2705a6ed87553dddc.bundle"
+    },
+    {
+        "file_code": "c400",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c400/01_hd_fe00eae362c2d8fd406447a11cb5f732.bundle"
+    },
+    {
+        "file_code": "c401",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c401/00_hd_a0841dbd7de271aef864b9bf63f2d657.bundle"
+    },
+    {
+        "file_code": "c401",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c401/01_hd_88151c4326ed488209d9d10959d5494e.bundle"
+    },
+    {
+        "file_code": "c402",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c402/00_hd_bb122144fc2efe2c9b81d2026d984f5e.bundle"
+    },
+    {
+        "file_code": "c403",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c403/00_hd_88a6c17db6d63cf92531bf5a5d9e75e8.bundle"
+    },
+    {
+        "file_code": "c411",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c411/00_hd_bf11b8646f3f7fa866b5b7d87b5ebdbf.bundle"
+    },
+    {
+        "file_code": "c412",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c412/00_hd_7bae98eda6740a08573a71f9f32c9443.bundle"
+    },
+    {
+        "file_code": "c430",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c430/00_hd_b3b4716639ece5d3de361d08114fd59c.bundle"
+    },
+    {
+        "file_code": "c430",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c430/01_hd_215724d0099396a29b15582217e27eff.bundle"
+    },
+    {
+        "file_code": "c430",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c430/02_hd_a89ffe0a9675d73eadd8cd25c4741c03.bundle"
+    },
+    {
+        "file_code": "c431",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c431/00_hd_0d8899d29ddbb719d5e1761edfb7afc8.bundle"
+    },
+    {
+        "file_code": "c431",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c431/01_hd_0fdfca42c361d25c5674de47d37e3db7.bundle"
+    },
+    {
+        "file_code": "c432",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c432/00_hd_82e7cacd90cc60395dee828ebd826ee9.bundle"
+    },
+    {
+        "file_code": "c440",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c440/00_hd_a9047c4921ca0e774de1e196d769a3cc.bundle"
+    },
+    {
+        "file_code": "c441",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c441/00_hd_34b8125222f5b07243ee405cdcfe6263.bundle"
+    },
+    {
+        "file_code": "c450",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c450/00_hd_36c8b1e30e5776aa86759502bc40695e.bundle"
+    },
+    {
+        "file_code": "c450",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c450/01_hd_b4abf079940fe9f0ae3b9df8fc00c6a7.bundle"
+    },
+    {
+        "file_code": "c450",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c450/02_hd_eab0317dd11c2ba0bccdd0d7b507acb1.bundle"
+    },
+    {
+        "file_code": "c451",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c451/00_hd_0bd2a75ce198190ef0d00c0358734768.bundle"
+    },
+    {
+        "file_code": "c451",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c451/01_hd_66c5b7b54ef3d3637bbfcf0f4013c940.bundle"
+    },
+    {
+        "file_code": "c451",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c451/02_hd_e728f6b96cabe89e038f36b3ff059249.bundle"
+    },
+    {
+        "file_code": "c470",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c470/00_hd_db19af40262c4122789980554a5aa87b.bundle"
+    },
+    {
+        "file_code": "c470",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c470/01_hd_6005e1484c7dbac2ecd61a65bef816a1.bundle"
+    },
+    {
+        "file_code": "c470",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c470/02_hd_9c448c46e6508f3b7e22953c95b79822.bundle"
+    },
+    {
+        "file_code": "c480",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c480/00_hd_3d05a95c36f51846ade428247da22001.bundle"
+    },
+    {
+        "file_code": "c481",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c481/00_hd_d9d35d2981144fc5f34a67c553af302f.bundle"
+    },
+    {
+        "file_code": "c482",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c482/00_hd_a0b55fc1892f1ee543a7725cbb15caf4.bundle"
+    },
+    {
+        "file_code": "c490",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c490/00_hd_e6f75fcf92358f880c20a5ff6cca4125.bundle"
+    },
+    {
+        "file_code": "c491",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c491/00_hd_8f7348c020ec9d535d7407f43d11708f.bundle"
+    },
+    {
+        "file_code": "c500",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c500/00_hd_d349a7fb5bdebed1747a193ffc847986.bundle"
+    },
+    {
+        "file_code": "c501",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c501/00_hd_c9349961491100c955ebcaab94abf897.bundle"
+    },
+    {
+        "file_code": "c501",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c501/01_hd_63107e013c4441f33a61c204cf246b11.bundle"
+    },
+    {
+        "file_code": "c502",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c502/00_hd_002da14c39f6e1239bd9399457f46192.bundle"
+    },
+    {
+        "file_code": "c510",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c510/00_hd_46672e5cc23ff6d695fcab64589b5fb0.bundle"
+    },
+    {
+        "file_code": "c511",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c511/00_hd_112b8e61bb3198c42856dcc7bf3d9658.bundle"
+    },
+    {
+        "file_code": "c511",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c511/01_hd_4bee8c924df99080bef0139a32e8d048.bundle"
+    },
+    {
+        "file_code": "c511",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c511/02_hd_80b34e9b2d166c7e64d83f78326c23f6.bundle"
+    },
+    {
+        "file_code": "c513",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c513/00_hd_c2295fee72e551876d1f1972632f1c8c.bundle"
+    },
+    {
+        "file_code": "c513",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c513/01_hd_c00825afc152182454b3e139391e6168.bundle"
+    },
+    {
+        "file_code": "c513",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c513/02_hd_f3c3c0bb2e4fbe684dae1dac665e6a12.bundle"
+    },
+    {
+        "file_code": "c514",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c514/00_hd_b88fb1909e2b20ebad1def6b093d6172.bundle"
+    },
+    {
+        "file_code": "c514",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c514/01_hd_239f16988f6b6d19ef84f91451ec4c58.bundle"
+    },
+    {
+        "file_code": "c520",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c520/00_hd_876332d5b855328df76749b37b44c2fd.bundle"
+    },
+    {
+        "file_code": "c521",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c521/00_hd_5eef1af8277fd910ea54bcc7030da1ec.bundle"
+    },
+    {
+        "file_code": "c530",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c530/00_hd_c36221a04e33217b5488fb6725ec19ab.bundle"
+    },
+    {
+        "file_code": "c531",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c531/00_hd_463e8eade0596594b6ba77f229b4d783.bundle"
+    },
+    {
+        "file_code": "c532",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c532/00_hd_c671c838f463c71317852c80b4cb4a2e.bundle"
+    },
+    {
+        "file_code": "c550",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c550/00_hd_ed9e2ef8541256f0e65607c3d0b742fc.bundle"
+    },
+    {
+        "file_code": "c550",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c550/01_hd_d45795fcfaf1818c244ca1ac3f889280.bundle"
+    },
+    {
+        "file_code": "c551",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c551/00_hd_1de24dcc46a26a02bbe1b69e7f26b33b.bundle"
+    },
+    {
+        "file_code": "c560",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c560/00_hd_3aeeb66fed67ff679f2f4e22aae01c1e.bundle"
+    },
+    {
+        "file_code": "c561",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c561/00_hd_f05cd8cbe9eb1fcd6b870d4155c954f7.bundle"
+    },
+    {
+        "file_code": "c562",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c562/00_hd_5bd59687096b0d0b21471f5bd8dced69.bundle"
+    },
+    {
+        "file_code": "c563",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c563/00_hd_207e8e431bbd8d9f363b1a80718ef77f.bundle"
+    },
+    {
+        "file_code": "c570",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c570/00_hd_03bcd30d9df0b45342b61718521d87da.bundle"
+    },
+    {
+        "file_code": "c580",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c580/00_hd_e3959b6f5a9a4560714c7b2e37d9b850.bundle"
+    },
+    {
+        "file_code": "c581",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c581/00_hd_8d397ae518823d964797a3b4c9fba8a2.bundle"
+    },
+    {
+        "file_code": "c590",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c590/00_hd_43d4235c6e2836555079c93c0eadb14b.bundle"
+    },
+    {
+        "file_code": "c600",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c600/00_hd_9b1aa5ea3c3b124a318dcea48e7026ec.bundle"
+    },
+    {
+        "file_code": "c601",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c601/00_hd_63ffc0073b0713f20ef335d35e3d29ab.bundle"
+    },
+    {
+        "file_code": "c800",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c800/00_hd_79684f297fea0f3db940a796a429884c.bundle"
+    },
+    {
+        "file_code": "c800",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c800/01_hd_dab24a792c0bd7b23e4728fea287f87f.bundle"
+    },
+    {
+        "file_code": "c801",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c801/00_hd_27e03487d5322ecb7b27ae4f0a56ddea.bundle"
+    },
+    {
+        "file_code": "c802",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c802/00_hd_dcf468fa30efee9b454b129fc407cf5f.bundle"
+    },
+    {
+        "file_code": "c803",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c803/00_hd_b61d68c984925d4309654118403187b7.bundle"
+    },
+    {
+        "file_code": "c804",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c804/00_hd_a5478638b2aa95d78ab6832c17efc987.bundle"
+    },
+    {
+        "file_code": "c810",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c810/00_hd_c7f875045e08da47e47c9d8896db1aa4.bundle"
+    },
+    {
+        "file_code": "c810",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c810/01_hd_41cfee4f9e538d9c83aa053a725c07cb.bundle"
+    },
+    {
+        "file_code": "c810",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c810/02_hd_a042120ae176f9237c89067480ae368c.bundle"
+    },
+    {
+        "file_code": "c810",
+        "skin_code": "03",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c810/03_hd_b3446f5b9f0adccc12b75fd7bb54efa3.bundle"
+    },
+    {
+        "file_code": "c811",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c811/00_hd_0a08d0725998ac4fe786d0787c76687e.bundle"
+    },
+    {
+        "file_code": "c811",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c811/01_hd_871d88188ad4a264ed9a1b2ee803c00b.bundle"
+    },
+    {
+        "file_code": "c811",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c811/02_hd_ba3a59d312bd99e9a71643d7cdee10c0.bundle"
+    },
+    {
+        "file_code": "c811",
+        "skin_code": "03",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c811/03_hd_7629b49064e9f91de794d89269bb9dba.bundle"
+    },
+    {
+        "file_code": "c812",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c812/00_hd_5bde0b13fb207904683b8f790bb0a31f.bundle"
+    },
+    {
+        "file_code": "c813",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c813/00_hd_38c66d369c23517021cd25a192b5dfea.bundle"
+    },
+    {
+        "file_code": "c820",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c820/00_hd_b295c38af2597e0d023e1a6cca9fbef7.bundle"
+    },
+    {
+        "file_code": "c820",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c820/01_hd_34aa1d5594fc02087f4da8e4d904bc6c.bundle"
+    },
+    {
+        "file_code": "c820",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c820/02_hd_362c81f4e7349b01ddab32c391332aab.bundle"
+    },
+    {
+        "file_code": "c821",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c821/00_hd_0d97c1b012bfabfef97c930e060a1b8e.bundle"
+    },
+    {
+        "file_code": "c821",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c821/01_hd_f4ad97ba8ca435d9593c929187bdfd03.bundle"
+    },
+    {
+        "file_code": "c821",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c821/02_hd_acdf422f9cdd7fb4ddc6d15605436a3a.bundle"
+    },
+    {
+        "file_code": "c822",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c822/00_hd_e008c1afb0cb46489303ec64660adf1c.bundle"
+    },
+    {
+        "file_code": "c830",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c830/00_hd_a4e8138690dfcb131e819c8e6291ebe6.bundle"
+    },
+    {
+        "file_code": "c830",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c830/01_hd_1f1b95439a92909b48e21df1c644a72e.bundle"
+    },
+    {
+        "file_code": "c830",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c830/02_hd_c64f8fafd92f84e8c0d6a2afa62c29c0.bundle"
+    },
+    {
+        "file_code": "c830",
+        "skin_code": "03",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c830/03_hd_28a1fe18c53eaa13cbed6f41ea60b818.bundle"
+    },
+    {
+        "file_code": "c831",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c831/00_hd_8fc689fc20d092e060dec1f4429aab0a.bundle"
+    },
+    {
+        "file_code": "c831",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c831/01_hd_32b1e991c50d363a09c2b8e18186ddbe.bundle"
+    },
+    {
+        "file_code": "c831",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c831/02_hd_8db00e87a85b421838713a3f767928a1.bundle"
+    },
+    {
+        "file_code": "c832",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c832/00_hd_c2da8661cba043df145bbbb56bc250a0.bundle"
+    },
+    {
+        "file_code": "c832",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c832/01_hd_4ab129357628df0f3b4109948b81574b.bundle"
+    },
+    {
+        "file_code": "c832",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c832/02_hd_f06a3090b8b5d880203be5a206d7d72d.bundle"
+    },
+    {
+        "file_code": "c832",
+        "skin_code": "03",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c832/03_hd_76b81c5a39def612d295af05672f0f4b.bundle"
+    },
+    {
+        "file_code": "c832",
+        "skin_code": "04",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c832/04_hd_c963e2a562b4e3c529bc623f6aa08639.bundle"
+    },
+    {
+        "file_code": "c833",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c833/00_hd_15e9098533a820efa9a8842655a37fdf.bundle"
+    },
+    {
+        "file_code": "c834",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c834/00_hd_e565d55b8584f0767058f94ba2c36a89.bundle"
+    },
+    {
+        "file_code": "c834",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c834/01_hd_0d9b90d69466d3f41c0e30e9891af93a.bundle"
+    },
+    {
+        "file_code": "c834",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c834/02_hd_90004f7b56e13a86f6f7fdc7514b0f88.bundle"
+    },
+    {
+        "file_code": "c835",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c835/00_hd_72e49186c89f98bddcc4115b47b5bd6f.bundle"
+    },
+    {
+        "file_code": "c835",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c835/01_hd_7be394ecda125457f73a2a05bb94dd07.bundle"
+    },
+    {
+        "file_code": "c835",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c835/02_hd_bb607e9c22d80c46f87f6ed70dfb9389.bundle"
+    },
+    {
+        "file_code": "c836",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c836/00_hd_4703b81ede77a3863a2988f86fd95759.bundle"
+    },
+    {
+        "file_code": "c840",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c840/00_hd_33138f68b389bc087ce24d37448d5830.bundle"
+    },
+    {
+        "file_code": "c840",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c840/01_hd_778f568bc12e1636a4fb8a31fa6c241f.bundle"
+    },
+    {
+        "file_code": "c840",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c840/02_hd_b34ad0d0f172753e8e8013ce52e4ee1f.bundle"
+    },
+    {
+        "file_code": "c841",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c841/00_hd_80165309ed62b7c02c9158e2fb3a106b.bundle"
+    },
+    {
+        "file_code": "c841",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c841/01_hd_6318d0157fec7d40d57c3d0362ff53de.bundle"
+    },
+    {
+        "file_code": "c841",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c841/02_hd_628057e459936337201d90894ab16c58.bundle"
+    },
+    {
+        "file_code": "c842",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c842/00_hd_2638db7a13a87dd4d0940fe1e0c5cb3a.bundle"
+    },
+    {
+        "file_code": "c850",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c850/00_hd_c0b57f7e19b6247d8ca88eaedea374bf.bundle"
+    },
+    {
+        "file_code": "c850",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c850/01_hd_43c55359a1389bd9442ede6ee275702e.bundle"
+    },
+    {
+        "file_code": "c850",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c850/02_hd_72103ef99ffc90faecc14228c2bb08e1.bundle"
+    },
+    {
+        "file_code": "c850",
+        "skin_code": "03",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c850/03_hd_cc35464edddd3d206cc4a85704cb5b00.bundle"
+    },
+    {
+        "file_code": "c851",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c851/00_hd_4a03bd2199d971d465fe26fe9c779e0b.bundle"
+    },
+    {
+        "file_code": "c851",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c851/01_hd_c4ebbe35a95cb625a6f898149cc971c1.bundle"
+    },
+    {
+        "file_code": "c851",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c851/02_hd_377fac9e1c1a0e0c541e9471534428f0.bundle"
+    },
+    {
+        "file_code": "c852",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c852/00_hd_90aa02f360aad209fa7b1fba04fa245e.bundle"
+    },
+    {
+        "file_code": "c853",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c853/00_hd_85d36fdd9c4043dddd115322eeb738a7.bundle"
+    },
+    {
+        "file_code": "c890",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c890/00_hd_e244034835aa53b60dc027b663e827d8.bundle"
+    },
+    {
+        "file_code": "c900",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c900/00_hd_a5c0c3fe31276a693deac8792652b9b2.bundle"
+    },
+    {
+        "file_code": "c901",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c901/00_hd_31ddcd14f84a3ea588b5ba3b2f85d6d9.bundle"
+    },
+    {
+        "file_code": "c902",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c902/00_hd_b0e1e1184275f04e680ded8d343992a3.bundle"
+    },
+    {
+        "file_code": "c903",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c903/00_hd_3a4b84db5432af8755b1f087ef059142.bundle"
+    },
+    {
+        "file_code": "c903",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c903/01_hd_9c2627e62f2a213e7e2c8f5bf8278a82.bundle"
+    },
+    {
+        "file_code": "c904",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c904/00_hd_c43d9c2dc16d32898491678980034c34.bundle"
+    },
+    {
+        "file_code": "c905",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c905/00_hd_8aeb2a309f480d3474845113c0572374.bundle"
+    },
+    {
+        "file_code": "c907",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c907/00_hd_5aee3c1e5eac67531c2c96355e24d515.bundle"
+    },
+    {
+        "file_code": "c909",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c909/00_hd_569c72b55f9e3182159915e3527eec6b.bundle"
+    },
+    {
+        "file_code": "c910",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c910/00_hd_61b1c2825688e7172f7e0d5b9770597d.bundle"
+    },
+    {
+        "file_code": "c910",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c910/01_hd_06c541a0bbd5f046b3f629cf4b5f4535.bundle"
+    },
+    {
+        "file_code": "c911",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c911/00_hd_549cecce3f299bb6764ef912daa67246.bundle"
+    },
+    {
+        "file_code": "c912",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c912/00_hd_b636cfa00419b956795c4261996d8430.bundle"
+    },
+    {
+        "file_code": "c913",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c913/00_hd_5b6b44f2cb3f0d476159b19ee2a38eb2.bundle"
+    },
+    {
+        "file_code": "c914",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c914/00_hd_214d82a5843554a4eb1ad187fde484d8.bundle"
+    },
+    {
+        "file_code": "c915",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c915/00_hd_65abe2e4fc806734d71caea9f51f5986.bundle"
+    },
+    {
+        "file_code": "c916",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c916/00_hd_dfec5b37005de99853c3d5ad82cf311f.bundle"
+    },
+    {
+        "file_code": "c917",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c917/00_hd_e27119dfd7e8e48b5a1c776f0a7ff460.bundle"
+    },
+    {
+        "file_code": "c918",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c918/00_hd_d548db723c838385b39ec0c5d3f35388.bundle"
+    },
+    {
+        "file_code": "c919",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c919/00_hd_03b544e54345374af1883e73be8ca21a.bundle"
+    },
+    {
+        "file_code": "c920",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c920/00_hd_fe16f678124b964087124faecd7ff325.bundle"
+    },
+    {
+        "file_code": "c921",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c921/00_hd_b9d11c3de4c8bce3d686b69d9d415178.bundle"
+    },
+    {
+        "file_code": "c922",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c922/00_hd_601dfe7600f3c9c5796463f7ee5313be.bundle"
+    },
+    {
+        "file_code": "c923",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c923/00_hd_20269bd55db63c648a480f43f7ddf433.bundle"
+    },
+    {
+        "file_code": "c924",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c924/00_hd_0c37283a9f3e6aa500644f49b2117da5.bundle"
+    },
+    {
+        "file_code": "c925",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c925/00_hd_27b5494cd672e386b00b3f4d892565a8.bundle"
+    },
+    {
+        "file_code": "c928",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c928/00_hd_95d5c1011ec9e8c3512d168c1ffdceb8.bundle"
+    },
+    {
+        "file_code": "c929",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c929/00_hd_6f27f679ca110efad34997341f9a4f17.bundle"
+    },
+    {
+        "file_code": "c930",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c930/00_hd_d53ade89d9266124860420c775ae058a.bundle"
+    },
+    {
+        "file_code": "c931",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c931/00_hd_f6245167c3eb73a8d075162e94a15103.bundle"
+    },
+    {
+        "file_code": "c931",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c931/01_hd_6d96ca8db5896e5b008394eda12cce27.bundle"
+    },
+    {
+        "file_code": "c932",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c932/00_hd_c64d8b67b71d096b34a7264eb50e8f64.bundle"
+    },
+    {
+        "file_code": "c933",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c933/00_hd_fea54e4da383cfbd7293298aeb08d3ed.bundle"
+    },
+    {
+        "file_code": "c934",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c934/00_hd_8d8ccb714e45cd2e5719b371ecf75b43.bundle"
+    },
+    {
+        "file_code": "c935",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c935/00_hd_3bdd52f6df460c218865d5c21f8e9448.bundle"
+    },
+    {
+        "file_code": "c936",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c936/00_hd_989f306c943720d2529da4d83f355633.bundle"
+    },
+    {
+        "file_code": "c937",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c937/00_hd_fbcc878ddcf81ca60c75a228b42032b9.bundle"
+    },
+    {
+        "file_code": "c939",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c939/00_hd_850568401d248b77f9a9506276d0fafe.bundle"
+    },
+    {
+        "file_code": "c940",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c940/00_hd_f713e8ff42588aa8217ecd7ae87848c3.bundle"
+    },
+    {
+        "file_code": "c941",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c941/00_hd_aa7f2d412c7af5c631db217e2e4c5083.bundle"
+    },
+    {
+        "file_code": "c942",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c942/00_hd_abaecfb7c2b7a8bcff1bb1c3b480d1f5.bundle"
+    },
+    {
+        "file_code": "c943",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c943/00_hd_d7e18b7f59e1904c20e9cf540ced4841.bundle"
+    },
+    {
+        "file_code": "c944",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c944/00_hd_b2f13faa96491a3a4643548ac9ac5b00.bundle"
+    },
+    {
+        "file_code": "c945",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c945/00_hd_551d3223d58daf35970a54508157dbcb.bundle"
+    },
+    {
+        "file_code": "c946",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c946/00_hd_c547580525d08d90502538ade558d359.bundle"
+    },
+    {
+        "file_code": "c947",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c947/00_hd_320ed43bcb44b3dcde1d51e0b60316c2.bundle"
+    },
+    {
+        "file_code": "c948",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c948/00_hd_cbddefeb9b064c31a56bc1851bd3cba5.bundle"
+    },
+    {
+        "file_code": "c951",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c951/00_hd_6632c4b51368bbece9d55b4201ff91c5.bundle"
+    },
+    {
+        "file_code": "c952",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c952/00_hd_0f1a7608b17b400b1924c3374324d1f1.bundle"
+    },
+    {
+        "file_code": "c960",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c960/00_hd_3573c3f271762e21b22f43f2c8625023.bundle"
+    },
+    {
+        "file_code": "c961",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c961/00_hd_cf11283bf6b2d626599e1173dc1aba81.bundle"
+    },
+    {
+        "file_code": "c962",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c962/00_hd_46a1d14355e1ff23418e47bc63fb6477.bundle"
+    },
+    {
+        "file_code": "c963",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c963/00_hd_777aa38cb95f8f01194d7c4fd9e8d630.bundle"
+    },
+    {
+        "file_code": "c964",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c964/00_hd_13c5d679c8b7267677cdf99582c63ca5.bundle"
+    },
+    {
+        "file_code": "c965",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c965/00_hd_374958b956c0ed744ed51cfb0f6f7893.bundle"
+    },
+    {
+        "file_code": "c966",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c966/00_hd_9f04e5a0b3f71346c2097dc5de762dec.bundle"
+    },
+    {
+        "file_code": "c967",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c967/00_hd_ea1a61cba8f78aa8f0293bf2df13a98b.bundle"
+    },
+    {
+        "file_code": "c968",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c968/00_hd_d4150d569aa1859f9ccac600c3a27961.bundle"
+    },
+    {
+        "file_code": "c969",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c969/00_hd_91206ce35d58e5630059c5a4b787b787.bundle"
+    },
+    {
+        "file_code": "c970",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c970/00_hd_aab6240dee2a020b5b587ffdfdd510be.bundle"
+    },
+    {
+        "file_code": "c971",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c971/00_hd_bad3461576d7f47a20c001d22518e950.bundle"
+    },
+    {
+        "file_code": "c971",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c971/01_hd_4bf1a3efac42c06566418d19948eb891.bundle"
+    },
+    {
+        "file_code": "c973",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c973/00_hd_42f51cd7893b8ad28d25d8283ddefda1.bundle"
+    },
+    {
+        "file_code": "c974",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c974/00_hd_2742f88a4f69f1e30b39f154e5d36436.bundle"
+    },
+    {
+        "file_code": "c975",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c975/00_hd_8986a470adc4642e935f0f53e0d31c1c.bundle"
+    },
+    {
+        "file_code": "c976",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c976/00_hd_955ffe8c14957b5205e5ebbba29cb24b.bundle"
+    },
+    {
+        "file_code": "c977",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c977/00_hd_4b82a5fbd50d3cd8c0e556cc2f47a2af.bundle"
+    },
+    {
+        "file_code": "c979",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c979/00_hd_f72a34989f792c3be464a732ea43b240.bundle"
+    },
+    {
+        "file_code": "c980",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c980/00_hd_c1f1e120e7a17c89ab0fc92ac4dba38b.bundle"
+    },
+    {
+        "file_code": "c981",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c981/00_hd_bd915659ef16d23e657d6ab67ba44bcd.bundle"
+    },
+    {
+        "file_code": "c982",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c982/00_hd_00552d6311938970bb7f3302008d2984.bundle"
+    },
+    {
+        "file_code": "c983",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c983/00_hd_08134377c354c275d7ca43e8244a63c7.bundle"
+    },
+    {
+        "file_code": "c984",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c984/00_hd_e2a7401e3b36cebf481ccb29b31d4da1.bundle"
+    },
+    {
+        "file_code": "c984",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c984/01_hd_e377cd2ef7c5d1e80be5cf5441ad8b76.bundle"
+    },
+    {
+        "file_code": "c985",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c985/00_hd_9d459829f5531d08d772acc0131a20d3.bundle"
+    },
+    {
+        "file_code": "c986",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c986/00_hd_59ddd986f1d7dc3d867052d40dce414e.bundle"
+    },
+    {
+        "file_code": "c988",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c988/00_hd_4601b2360da55ae900435d3ff100de51.bundle"
+    },
+    {
+        "file_code": "c989",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c989/00_hd_a44658cc67082f89367fbc3d1ae4e05d.bundle"
+    },
+    {
+        "file_code": "c990",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c990/00_hd_fce9b8a5fd8268b037262c58abc0af01.bundle"
+    },
+    {
+        "file_code": "c991",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c991/00_hd_3c1915aa46b2eb0cff8171805a0f84e1.bundle"
+    },
+    {
+        "file_code": "c992",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c992/00_hd_4c42c8351dc7280d9327abc2e094731f.bundle"
+    },
+    {
+        "file_code": "c993",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c993/00_hd_552514fd13b366b58bc8a8144cb19943.bundle"
+    },
+    {
+        "file_code": "c994",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c994/00_hd_3ff1a951178bcd6bb10f7a333dce2e7f.bundle"
+    },
+    {
+        "file_code": "c996",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c996/00_hd_9bb87d2da44d640d2a3aee11fa487d80.bundle"
+    },
+    {
+        "file_code": "c997",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c997/00_hd_9a410a5a1490a3d47e6dab67dda23495.bundle"
+    },
+    {
+        "file_code": "c998",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c998/00_hd_408d722a8a2ee45fdd1510a5a1ec41ac.bundle"
+    },
+    {
+        "file_code": "c999",
+        "skin_code": "00",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/139-bfaa7caf86/StandaloneWindows64/pck/dp/ebc43f4/spinestandingcharactergroup(hd)_assets_spine/standing/c999/00_hd_42bc86118ece7057c02154ecbd9357c3.bundle"
+    }
+]

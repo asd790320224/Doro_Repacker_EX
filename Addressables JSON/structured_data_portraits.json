@@ -1,0 +1,2942 @@
+[
+    {
+        "file_code": "c000",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c000_00_s.png",
+        "hashed_name": "c3bebc509a898e6a14db18aa5e047022"
+    },
+    {
+        "file_code": "c010",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c010_00_s.png",
+        "hashed_name": "fa4acdf6b5105da5bb8871adc1ae2660"
+    },
+    {
+        "file_code": "c010",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c010_01_s.png",
+        "hashed_name": "5e8ed20bfd27eca08c8d7e2c6c74494d"
+    },
+    {
+        "file_code": "c010",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c010_02_s.png",
+        "hashed_name": "a7e730d14a8fd2093e7043cf195bbda5"
+    },
+    {
+        "file_code": "c011",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c011_00_s.png",
+        "hashed_name": "b9ca485df5b21453b155f4027a4fd20d"
+    },
+    {
+        "file_code": "c011",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c011_01_s.png",
+        "hashed_name": "989ced258edcede6443d2ffb6bf5fc4e"
+    },
+    {
+        "file_code": "c012",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c012_00_s.png",
+        "hashed_name": "accf45f0d2c1210fa2fb9a028faa375e"
+    },
+    {
+        "file_code": "c013",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c013_00_s.png",
+        "hashed_name": "c89292064b0c36dbae50517578754fa1"
+    },
+    {
+        "file_code": "c014",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c014_00_s.png",
+        "hashed_name": "e9e37034370e8c3c26e5b7b04cc94d2a"
+    },
+    {
+        "file_code": "c015",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c015_00_s.png",
+        "hashed_name": "982d4644e22f01167217a41862428ae2"
+    },
+    {
+        "file_code": "c016",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c016_00_s.png",
+        "hashed_name": "7e77f4d03d4e637b8200a8a491b5c69d"
+    },
+    {
+        "file_code": "c016",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c016_01_s.png",
+        "hashed_name": "1fc25a31224ac5dd6cb01c79ff6e526f"
+    },
+    {
+        "file_code": "c016",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c016_02_s.png",
+        "hashed_name": "21c36d2e160665264652dd9439ed3284"
+    },
+    {
+        "file_code": "c017",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c017_00_s.png",
+        "hashed_name": "2831092f901569f5ba7bc217ebbbd0ac"
+    },
+    {
+        "file_code": "c020",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c020_00_s.png",
+        "hashed_name": "a38a7bf32360673afc70eb6fe9ea32c6"
+    },
+    {
+        "file_code": "c022",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c022_00_s.png",
+        "hashed_name": "1aca46de976ec4beb6e3e6000830c379"
+    },
+    {
+        "file_code": "c022",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c022_01_s.png",
+        "hashed_name": "50b737c9310c52d4ef4d6bb9af9963dd"
+    },
+    {
+        "file_code": "c023",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c023_00_s.png",
+        "hashed_name": "724faaec9dce7a2e29bbf2a83904e62c"
+    },
+    {
+        "file_code": "c030",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c030_00_s.png",
+        "hashed_name": "714c098ec50b6243177f7688eb48ad84"
+    },
+    {
+        "file_code": "c030",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c030_01_s.png",
+        "hashed_name": "f37bee798bd97a63dd61777a34a8d677"
+    },
+    {
+        "file_code": "c030",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c030_02_s.png",
+        "hashed_name": "9fb0abebe38523553902913d9dcebf0c"
+    },
+    {
+        "file_code": "c032",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c032_00_s.png",
+        "hashed_name": "750a26d10a245af9ba41914b561d3cda"
+    },
+    {
+        "file_code": "c032",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c032_01_s.png",
+        "hashed_name": "ed7703cec9c3b78ae94b35360e0592a0"
+    },
+    {
+        "file_code": "c033",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c033_00_s.png",
+        "hashed_name": "ff2e88c18d09694004379aaaa26c4a96"
+    },
+    {
+        "file_code": "c040",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c040_00_s.png",
+        "hashed_name": "6f1fb921cbc6c21f69679bfbff2281fa"
+    },
+    {
+        "file_code": "c041",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c041_00_s.png",
+        "hashed_name": "18c6c3ddd24265321937e1f5832a4d14"
+    },
+    {
+        "file_code": "c041",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c041_01_s.png",
+        "hashed_name": "767be848993c14dc9919d2686b7796bb"
+    },
+    {
+        "file_code": "c043",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c043_00_s.png",
+        "hashed_name": "4ad07e99d927bd9f0b9451dab570160b"
+    },
+    {
+        "file_code": "c043",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c043_01_s.png",
+        "hashed_name": "fd1756949c96f7736e485ecc4bfdd0b0"
+    },
+    {
+        "file_code": "c043",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c043_02_s.png",
+        "hashed_name": "89aa6ff2db4deb447a7f4aa822ddfd65"
+    },
+    {
+        "file_code": "c060",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c060_00_s.png",
+        "hashed_name": "538850be31d05cd0e9495a5e841f4052"
+    },
+    {
+        "file_code": "c061",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c061_00_s.png",
+        "hashed_name": "fc856dc8b7d7ca8e76cc594986cacc77"
+    },
+    {
+        "file_code": "c062",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c062_00_s.png",
+        "hashed_name": "87da5c2e8cb2deeb393da80d94c3ae4a"
+    },
+    {
+        "file_code": "c070",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c070_00_s.png",
+        "hashed_name": "524f357fe30d24795e693b50c99160b3"
+    },
+    {
+        "file_code": "c070",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c070_01_s.png",
+        "hashed_name": "74ac12e2389d31af2867f99159e9fae1"
+    },
+    {
+        "file_code": "c070",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c070_02_s.png",
+        "hashed_name": "baf9aa2f0b7a398a932cc3cc1727ed2c"
+    },
+    {
+        "file_code": "c071",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c071_00_s.png",
+        "hashed_name": "cd5b67b9476f8cb3bdf0454482f3011f"
+    },
+    {
+        "file_code": "c072",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c072_00_s.png",
+        "hashed_name": "fd1badccb46c472937f4452ccf5eaf55"
+    },
+    {
+        "file_code": "c072",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c072_01_s.png",
+        "hashed_name": "84501e8d3b60a6ccd3d2cebf74d28c2e"
+    },
+    {
+        "file_code": "c072",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c072_02_s.png",
+        "hashed_name": "6189cb57a206491b299aeed1c5031a13"
+    },
+    {
+        "file_code": "c072",
+        "skin_code": "04",
+        "type": "portrait",
+        "asset_name": "mi_c072_04_s.png",
+        "hashed_name": "905650ac631cd3b07d830b227230f7c2"
+    },
+    {
+        "file_code": "c080",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c080_00_s.png",
+        "hashed_name": "a3da6d31bc251126d2e3bc0407c8121f"
+    },
+    {
+        "file_code": "c080",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c080_01_s.png",
+        "hashed_name": "aa7b8e3b6352dcdc964479f59254d4c5"
+    },
+    {
+        "file_code": "c080",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c080_02_s.png",
+        "hashed_name": "ea7c0cf1fe75af7b3428a996272f7091"
+    },
+    {
+        "file_code": "c082",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c082_00_s.png",
+        "hashed_name": "8b964052d15e796cdef3674668b6a975"
+    },
+    {
+        "file_code": "c082",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c082_01_s.png",
+        "hashed_name": "4d834305c49b756cf50eb12dde8e5c87"
+    },
+    {
+        "file_code": "c082",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c082_02_s.png",
+        "hashed_name": "de5b8656f7e6b4719f7d976d73999d55"
+    },
+    {
+        "file_code": "c090",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c090_00_s.png",
+        "hashed_name": "985e63590219379c55643e085fe9a6d7"
+    },
+    {
+        "file_code": "c090",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c090_01_s.png",
+        "hashed_name": "b811c0d38c2690cc893e6fd96b1f9bbc"
+    },
+    {
+        "file_code": "c090",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c090_02_s.png",
+        "hashed_name": "a80082c3409d4beb0d663485baf38093"
+    },
+    {
+        "file_code": "c091",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c091_00_s.png",
+        "hashed_name": "ba25cd923eea6b73c525c63f467840e0"
+    },
+    {
+        "file_code": "c091",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c091_01_s.png",
+        "hashed_name": "a6a123fda0f58edb82cdfaab3c90270d"
+    },
+    {
+        "file_code": "c092",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c092_00_s.png",
+        "hashed_name": "0a031dc0462115f6b5aa55da92508e44"
+    },
+    {
+        "file_code": "c093",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c093_00_s.png",
+        "hashed_name": "e0e887d612a452c0301117681aa77dfc"
+    },
+    {
+        "file_code": "c094",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c094_00_s.png",
+        "hashed_name": "f5f58cd09af6061465d9492024e32c80"
+    },
+    {
+        "file_code": "c095",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c095_00_s.png",
+        "hashed_name": "aaf214de0104a28b508d01483962f9bc"
+    },
+    {
+        "file_code": "c095",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c095_01_s.png",
+        "hashed_name": "d91059462d978230e1dce8e79f850c81"
+    },
+    {
+        "file_code": "c100",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c100_00_s.png",
+        "hashed_name": "5cbd617f086d0831edb70864ada772c5"
+    },
+    {
+        "file_code": "c101",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c101_00_s.png",
+        "hashed_name": "b24b7e81a200706e13df1caf603363d9"
+    },
+    {
+        "file_code": "c101",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c101_01_s.png",
+        "hashed_name": "9f4a4f8e671a91e31c24fb6402d29efd"
+    },
+    {
+        "file_code": "c101",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c101_02_s.png",
+        "hashed_name": "d97f4078d21fd1753056728cf1350081"
+    },
+    {
+        "file_code": "c102",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c102_00_s.png",
+        "hashed_name": "603e1ab47b167f0c31d43831d6ffb8a7"
+    },
+    {
+        "file_code": "c102",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c102_01_s.png",
+        "hashed_name": "be83fa666dbdb4143b5ff28ae608e232"
+    },
+    {
+        "file_code": "c103",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c103_00_s.png",
+        "hashed_name": "ec8007dd7c36cab9d45ea678a42a7674"
+    },
+    {
+        "file_code": "c104",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c104_00_s.png",
+        "hashed_name": "bf70b1a6ea5e3fcf5d2a901e9804c192"
+    },
+    {
+        "file_code": "c105",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c105_00_s.png",
+        "hashed_name": "bb554653a4ef4e4c211d53b28ea18179"
+    },
+    {
+        "file_code": "c110",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c110_00_s.png",
+        "hashed_name": "4ae313beec6e5a42bc5f25c9f5a1ecbf"
+    },
+    {
+        "file_code": "c111",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c111_00_s.png",
+        "hashed_name": "fff2df035757fa58c4951d960c8b005a"
+    },
+    {
+        "file_code": "c112",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c112_00_s.png",
+        "hashed_name": "fb9647bb30c93f77556fc1ea3eb01a9d"
+    },
+    {
+        "file_code": "c112",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c112_01_s.png",
+        "hashed_name": "1ee5d0c1f5d4affc94ac6260bf121cc5"
+    },
+    {
+        "file_code": "c112",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c112_02_s.png",
+        "hashed_name": "52798a843f079411a3376fd243f9ab20"
+    },
+    {
+        "file_code": "c120",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c120_00_s.png",
+        "hashed_name": "4a1c5b7bae81930720e67ba14c44a2d5"
+    },
+    {
+        "file_code": "c121",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c121_00_s.png",
+        "hashed_name": "31353a384057b25642a7f1ffd997d6b6"
+    },
+    {
+        "file_code": "c130",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c130_00_s.png",
+        "hashed_name": "b66ed03640ce1ba99a269e0b25b563f7"
+    },
+    {
+        "file_code": "c130",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c130_01_s.png",
+        "hashed_name": "aa5b86a70d0c267a58e9b5c2125a0ba8"
+    },
+    {
+        "file_code": "c131",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c131_00_s.png",
+        "hashed_name": "df9e9dc06806d1dbe99a354d41e176f7"
+    },
+    {
+        "file_code": "c131",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c131_01_s.png",
+        "hashed_name": "4bd8b81889d1c0fef1158bd794816b63"
+    },
+    {
+        "file_code": "c132",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c132_00_s.png",
+        "hashed_name": "3faba3ea19669c5604fc172ae749211b"
+    },
+    {
+        "file_code": "c140",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c140_00_s.png",
+        "hashed_name": "a327ae1cefea2f2c6a4ff19fb6820f3f"
+    },
+    {
+        "file_code": "c140",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c140_01_s.png",
+        "hashed_name": "d15b8c52c8e9bbc40c953b4bbea5cb6a"
+    },
+    {
+        "file_code": "c140",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c140_02_s.png",
+        "hashed_name": "5784f6388816d3e99085cedbeec9f7b6"
+    },
+    {
+        "file_code": "c141",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c141_00_s.png",
+        "hashed_name": "6f186b3ec8c2e62743cec71ea8707ead"
+    },
+    {
+        "file_code": "c141",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c141_01_s.png",
+        "hashed_name": "09ea4a8cdf36b48ceb07f53c4d50687c"
+    },
+    {
+        "file_code": "c142",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c142_00_s.png",
+        "hashed_name": "5d068c484e6474e7d8d11cdf86b55d11"
+    },
+    {
+        "file_code": "c142",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c142_01_s.png",
+        "hashed_name": "7533671f856e3730109be07c7f50fba8"
+    },
+    {
+        "file_code": "c143",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c143_00_s.png",
+        "hashed_name": "55615277264db3a24729efd88a4e6997"
+    },
+    {
+        "file_code": "c150",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c150_00_s.png",
+        "hashed_name": "90c3959233cad0d952617d1545d9b056"
+    },
+    {
+        "file_code": "c150",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c150_01_s.png",
+        "hashed_name": "91214e2edcbcba1f329b6b6088fb1f2a"
+    },
+    {
+        "file_code": "c150",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c150_02_s.png",
+        "hashed_name": "ae2ea6fc36b944432bb03622bb765433"
+    },
+    {
+        "file_code": "c160",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c160_00_s.png",
+        "hashed_name": "af81bcb52507180374633301fdc6ef39"
+    },
+    {
+        "file_code": "c160",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c160_01_s.png",
+        "hashed_name": "9668171129c8f3237b95c2dd2f2c4fa8"
+    },
+    {
+        "file_code": "c161",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c161_00_s.png",
+        "hashed_name": "e46e58430638a00f8ae7b9a7678687a9"
+    },
+    {
+        "file_code": "c162",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c162_00_s.png",
+        "hashed_name": "b1ade11e6bb11be85ffae2d3985a334e"
+    },
+    {
+        "file_code": "c162",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c162_01_s.png",
+        "hashed_name": "2c21b6cec892bc49baa42434a7fc9133"
+    },
+    {
+        "file_code": "c170",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c170_00_s.png",
+        "hashed_name": "0851788440dad9569bf018db52196002"
+    },
+    {
+        "file_code": "c170",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c170_01_s.png",
+        "hashed_name": "061f1070a155cc386fbb5b37be825139"
+    },
+    {
+        "file_code": "c170",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c170_02_s.png",
+        "hashed_name": "a2536bfa1b52cd7f8ffeb541929ec68c"
+    },
+    {
+        "file_code": "c170",
+        "skin_code": "03",
+        "type": "portrait",
+        "asset_name": "mi_c170_03_s.png",
+        "hashed_name": "bee0c080ef9de8dcfa0b936c060109d9"
+    },
+    {
+        "file_code": "c171",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c171_00_s.png",
+        "hashed_name": "2b7035a4e2904a420e970d001a385841"
+    },
+    {
+        "file_code": "c172",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c172_00_s.png",
+        "hashed_name": "0de99d2acba63cb64b9c67789b9fac68"
+    },
+    {
+        "file_code": "c180",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c180_00_s.png",
+        "hashed_name": "fe5093699f3802d0051ad39107d55970"
+    },
+    {
+        "file_code": "c180",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c180_01_s.png",
+        "hashed_name": "5540dc782da8d22a2931f5f07f6b41a8"
+    },
+    {
+        "file_code": "c181",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c181_00_s.png",
+        "hashed_name": "b886a5d266897aca45f174b762966312"
+    },
+    {
+        "file_code": "c181",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c181_01_s.png",
+        "hashed_name": "d8f3e5b4466f18b5ab87645e8ed7e304"
+    },
+    {
+        "file_code": "c181",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c181_02_s.png",
+        "hashed_name": "510d5c89be5992076b3d7217be31a565"
+    },
+    {
+        "file_code": "c182",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c182_00_s.png",
+        "hashed_name": "b3cb24cd550f201ac574fff5f93457fd"
+    },
+    {
+        "file_code": "c183",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c183_00_s.png",
+        "hashed_name": "2ff8bf9b0e848297d4673f635a1d3dfa"
+    },
+    {
+        "file_code": "c190",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c190_00_s.png",
+        "hashed_name": "ffd38c1c758ed635b23863f9e982c9ce"
+    },
+    {
+        "file_code": "c191",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c191_00_s.png",
+        "hashed_name": "ff29fa146727fa7896e939c9f31e9307"
+    },
+    {
+        "file_code": "c191",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c191_01_s.png",
+        "hashed_name": "5ed39ab455fcc883f142f4dc7497bf55"
+    },
+    {
+        "file_code": "c192",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c192_00_s.png",
+        "hashed_name": "a67e1721c24f1a9fa57dcfae2423975b"
+    },
+    {
+        "file_code": "c192",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c192_01_s.png",
+        "hashed_name": "7818fdb1e78992563cbea4466d741cc7"
+    },
+    {
+        "file_code": "c192",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c192_02_s.png",
+        "hashed_name": "55b830dcb116facc886d3a6b3f111282"
+    },
+    {
+        "file_code": "c193",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c193_00_s.png",
+        "hashed_name": "d9a841d90f46633b11684a2f73e8600b"
+    },
+    {
+        "file_code": "c194",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c194_00_s.png",
+        "hashed_name": "6613b1b17d4117f03c6013b51244658c"
+    },
+    {
+        "file_code": "c195",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c195_00_s.png",
+        "hashed_name": "d915f127abb98dda62f429568f7b1109"
+    },
+    {
+        "file_code": "c200",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c200_00_s.png",
+        "hashed_name": "c7c6ac76fc36abad7ce5940fa633ce6a"
+    },
+    {
+        "file_code": "c200",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c200_01_s.png",
+        "hashed_name": "ad4b033a214e66a1c4db6b11deb3c2cc"
+    },
+    {
+        "file_code": "c201",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c201_00_s.png",
+        "hashed_name": "23b48f366686f150f663327a1aeeaf3b"
+    },
+    {
+        "file_code": "c201",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c201_01_s.png",
+        "hashed_name": "75c3dfffc5a01eb762697e04b1b4034c"
+    },
+    {
+        "file_code": "c202",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c202_00_s.png",
+        "hashed_name": "8a32fda4893bfb6c2617091e39954b76"
+    },
+    {
+        "file_code": "c202",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c202_01_s.png",
+        "hashed_name": "7d0f471989e3e97868686f48fe76c2dd"
+    },
+    {
+        "file_code": "c203",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c203_00_s.png",
+        "hashed_name": "8077ee9db623050e302a9055bd7f7ed4"
+    },
+    {
+        "file_code": "c210",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c210_00_s.png",
+        "hashed_name": "f125dba26d7b7ed9615194e03f199110"
+    },
+    {
+        "file_code": "c210",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c210_01_s.png",
+        "hashed_name": "f1c7e029c33fe4f10c98c02a82777c55"
+    },
+    {
+        "file_code": "c210",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c210_02_s.png",
+        "hashed_name": "1f4876ead28f4b6d5e9c9642917a9af9"
+    },
+    {
+        "file_code": "c210",
+        "skin_code": "03",
+        "type": "portrait",
+        "asset_name": "mi_c210_03_s.png",
+        "hashed_name": "1c295cad11996cb5074bfb80742fffb7"
+    },
+    {
+        "file_code": "c212",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c212_00_s.png",
+        "hashed_name": "813e42f7a7b6f66dc029bd0acf397a27"
+    },
+    {
+        "file_code": "c212",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c212_01_s.png",
+        "hashed_name": "8f367b46952b5a1b00ad3c353219c3d5"
+    },
+    {
+        "file_code": "c212",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c212_02_s.png",
+        "hashed_name": "cb52f76e5cf5115b596924184463d260"
+    },
+    {
+        "file_code": "c220",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c220_00_s.png",
+        "hashed_name": "e9b7fe8aa3756aff581d58d5170f6761"
+    },
+    {
+        "file_code": "c220",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c220_01_s.png",
+        "hashed_name": "82920e559d8e07b66ab85441a79b983c"
+    },
+    {
+        "file_code": "c221",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c221_00_s.png",
+        "hashed_name": "1ebb59405f977bc93361240a1464c3c3"
+    },
+    {
+        "file_code": "c222",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c222_00_s.png",
+        "hashed_name": "eb51237502966fca4530252c43af45e3"
+    },
+    {
+        "file_code": "c222",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c222_01_s.png",
+        "hashed_name": "3f3bea24f98c87e9d8b4b85194d60131"
+    },
+    {
+        "file_code": "c223",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c223_00_s.png",
+        "hashed_name": "2c078f058ce090f2b0ab746f81fc088f"
+    },
+    {
+        "file_code": "c223",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c223_01_s.png",
+        "hashed_name": "33c4d883f005dd225c477601f24f41e4"
+    },
+    {
+        "file_code": "c224",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c224_00_s.png",
+        "hashed_name": "f53aeac5b8f293d3ae461d27279c7922"
+    },
+    {
+        "file_code": "c225",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c225_00_s.png",
+        "hashed_name": "df8afc6a0fb75ad1353b2b6cdd4ce43a"
+    },
+    {
+        "file_code": "c225",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c225_01_s.png",
+        "hashed_name": "e8216b30bff4a8fd0a3feee4f4d9f1ec"
+    },
+    {
+        "file_code": "c226",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c226_00_s.png",
+        "hashed_name": "f63b0b7f3791833ddff8028ed37297eb"
+    },
+    {
+        "file_code": "c230",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c230_00_s.png",
+        "hashed_name": "d8203a7c8cf1084e18876c37e581cb6c"
+    },
+    {
+        "file_code": "c230",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c230_01_s.png",
+        "hashed_name": "48aae9572c1f34d6f2ce00f988fe578c"
+    },
+    {
+        "file_code": "c231",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c231_00_s.png",
+        "hashed_name": "1a11ad98163fcb2e94103ebc561d8e31"
+    },
+    {
+        "file_code": "c231",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c231_01_s.png",
+        "hashed_name": "9246d8eaa2434bb252696bb578413dad"
+    },
+    {
+        "file_code": "c232",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c232_00_s.png",
+        "hashed_name": "8ad92eeb18df2932db0eb268f1a6aea1"
+    },
+    {
+        "file_code": "c233",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c233_00_s.png",
+        "hashed_name": "5bc5a2d6fa1437f1101ed3f6d207606d"
+    },
+    {
+        "file_code": "c233",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c233_01_s.png",
+        "hashed_name": "44bada9693dbaf2804bed104141ed907"
+    },
+    {
+        "file_code": "c234",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c234_00_s.png",
+        "hashed_name": "bcb6f8aa9906df2cd61aeb00a5e5f6a2"
+    },
+    {
+        "file_code": "c240",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c240_00_s.png",
+        "hashed_name": "72446f64516d426f3652a58dc5342184"
+    },
+    {
+        "file_code": "c241",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c241_00_s.png",
+        "hashed_name": "daa7be0e14a4181481146d3b84667b1b"
+    },
+    {
+        "file_code": "c242",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c242_00_s.png",
+        "hashed_name": "874af31e7f592856a8e3709d0c70589c"
+    },
+    {
+        "file_code": "c242",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c242_01_s.png",
+        "hashed_name": "c2aa91ba7a1852d683855fc24beb9927"
+    },
+    {
+        "file_code": "c250",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c250_00_s.png",
+        "hashed_name": "42c5a6ba72fb58f9580d2b3d49293a05"
+    },
+    {
+        "file_code": "c251",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c251_00_s.png",
+        "hashed_name": "3ea213ea313f628c299ca31c3b615458"
+    },
+    {
+        "file_code": "c252",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c252_00_s.png",
+        "hashed_name": "4fa506edf9882e6aeb2d7d21f10b73ff"
+    },
+    {
+        "file_code": "c253",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c253_00_s.png",
+        "hashed_name": "414a545eed02cb8f92b61673c9a7ebd8"
+    },
+    {
+        "file_code": "c254",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c254_00_s.png",
+        "hashed_name": "485544ca8cffb000593963094dc88a0c"
+    },
+    {
+        "file_code": "c255",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c255_00_s.png",
+        "hashed_name": "0dd469635e49a2310b6b5af6fa69543f"
+    },
+    {
+        "file_code": "c260",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c260_00_s.png",
+        "hashed_name": "f9f6eb251b5e9a0cc28868196129d6e8"
+    },
+    {
+        "file_code": "c260",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c260_01_s.png",
+        "hashed_name": "959ac4cd159771019465aa70ca4f7c88"
+    },
+    {
+        "file_code": "c260",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c260_02_s.png",
+        "hashed_name": "b89b7199153a1e379f86c8bedb2f05a3"
+    },
+    {
+        "file_code": "c261",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c261_00_s.png",
+        "hashed_name": "f7d109ede251f2da14314241c261de19"
+    },
+    {
+        "file_code": "c262",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c262_00_s.png",
+        "hashed_name": "158c7c2028122f162a0e0005680d3509"
+    },
+    {
+        "file_code": "c263",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c263_00_s.png",
+        "hashed_name": "02300e430e1bee3588a21ba1bfcd75c6"
+    },
+    {
+        "file_code": "c270",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c270_00_s.png",
+        "hashed_name": "1c9e60c89216616113735d3cfb54032c"
+    },
+    {
+        "file_code": "c270",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c270_01_s.png",
+        "hashed_name": "588c342755381ab88716db24fb359430"
+    },
+    {
+        "file_code": "c270",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c270_02_s.png",
+        "hashed_name": "b8d0bf815d5e99322b8aad0d472270e9"
+    },
+    {
+        "file_code": "c271",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c271_00_s.png",
+        "hashed_name": "6f2f1c8f681234d4063778f09e816c7e"
+    },
+    {
+        "file_code": "c271",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c271_01_s.png",
+        "hashed_name": "b112883d55d938cb515d50e9cbc93bb5"
+    },
+    {
+        "file_code": "c271",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c271_02_s.png",
+        "hashed_name": "a0dfbfad2ae9fecd2d39c9de582de031"
+    },
+    {
+        "file_code": "c272",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c272_00_s.png",
+        "hashed_name": "e49d4c024393c4949b48ce422948f803"
+    },
+    {
+        "file_code": "c272",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c272_01_s.png",
+        "hashed_name": "6de3759a96f66450bce6e10005972ad9"
+    },
+    {
+        "file_code": "c280",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c280_00_s.png",
+        "hashed_name": "661e4c73d3163e9ae65661cadf334faf"
+    },
+    {
+        "file_code": "c280",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c280_01_s.png",
+        "hashed_name": "6ab9aecb6b355989069ab1e6b69c03fc"
+    },
+    {
+        "file_code": "c281",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c281_00_s.png",
+        "hashed_name": "d8cc43e97eae1bce2f1c6674823f04d1"
+    },
+    {
+        "file_code": "c281",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c281_01_s.png",
+        "hashed_name": "d83df2917bf11d858845d91eed399f15"
+    },
+    {
+        "file_code": "c282",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c282_00_s.png",
+        "hashed_name": "b3e3b7fb509c4dab2353f60ef7d20be8"
+    },
+    {
+        "file_code": "c282",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c282_01_s.png",
+        "hashed_name": "260ef5b02fa989797df37c00b5a00339"
+    },
+    {
+        "file_code": "c283",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c283_00_s.png",
+        "hashed_name": "6291c6bc19f1fcfaa640a9b7c4f265e9"
+    },
+    {
+        "file_code": "c284",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c284_00_s.png",
+        "hashed_name": "9faf283261f5bc3a5213f9ef7a971d9d"
+    },
+    {
+        "file_code": "c290",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c290_00_s.png",
+        "hashed_name": "c0c8bcd9af6cd4714061f4e4f5a2ace7"
+    },
+    {
+        "file_code": "c291",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c291_00_s.png",
+        "hashed_name": "8c4baeab0cac81e79b9240373769aecb"
+    },
+    {
+        "file_code": "c300",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c300_00_s.png",
+        "hashed_name": "e93c840ce4e273fc46a5bee34354f8ad"
+    },
+    {
+        "file_code": "c301",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c301_00_s.png",
+        "hashed_name": "20f416f299501fb65b39d1a6e9b005c7"
+    },
+    {
+        "file_code": "c302",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c302_00_s.png",
+        "hashed_name": "1fc68b879d5eae106a447243fec0158d"
+    },
+    {
+        "file_code": "c303",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c303_00_s.png",
+        "hashed_name": "0a61c11ef5a1e512d833e6e7b8e41b27"
+    },
+    {
+        "file_code": "c304",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c304_00_s.png",
+        "hashed_name": "a93ace7fd9f7de32cb575a4f6d9ea552"
+    },
+    {
+        "file_code": "c305",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c305_00_s.png",
+        "hashed_name": "4e42eb5b322d2325e038477601c7aac7"
+    },
+    {
+        "file_code": "c306",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c306_00_s.png",
+        "hashed_name": "dff862509cd0e7852b114101198c10ef"
+    },
+    {
+        "file_code": "c307",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c307_00_s.png",
+        "hashed_name": "968516565a894c74acfe8e8d220e18cc"
+    },
+    {
+        "file_code": "c308",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c308_00_s.png",
+        "hashed_name": "f81fef21da8baec30b887e8b5103fe84"
+    },
+    {
+        "file_code": "c310",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c310_00_s.png",
+        "hashed_name": "573bd6a9aca31dca5af2258027d1cdee"
+    },
+    {
+        "file_code": "c310",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c310_01_s.png",
+        "hashed_name": "1150d3cf2f6f8cc65819d739c572f6cf"
+    },
+    {
+        "file_code": "c311",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c311_00_s.png",
+        "hashed_name": "16ca042c340c83848e752bb5e2f7f1fc"
+    },
+    {
+        "file_code": "c312",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c312_00_s.png",
+        "hashed_name": "e42b80904e78c522614360ebb9eb3c7e"
+    },
+    {
+        "file_code": "c313",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c313_00_s.png",
+        "hashed_name": "f8b1ed7772ac766608dca34a60f50c0e"
+    },
+    {
+        "file_code": "c314",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c314_00_s.png",
+        "hashed_name": "747f7523c0f9759e431cd93ac8621216"
+    },
+    {
+        "file_code": "c315",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c315_00_s.png",
+        "hashed_name": "cff31b94185fbb57ace17c2e36136a85"
+    },
+    {
+        "file_code": "c321",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c321_00_s.png",
+        "hashed_name": "6ef702f8a7b730f66088e94a04249e05"
+    },
+    {
+        "file_code": "c321",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c321_01_s.png",
+        "hashed_name": "7b2dcd098285f09d4cf65aceb14a5926"
+    },
+    {
+        "file_code": "c330",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c330_00_s.png",
+        "hashed_name": "79aa4e186c2e4fe70ceef9ea480cb75f"
+    },
+    {
+        "file_code": "c330",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c330_01_s.png",
+        "hashed_name": "9e7039dfdac004c834351640f138e6a8"
+    },
+    {
+        "file_code": "c330",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c330_02_s.png",
+        "hashed_name": "af6810aa7b1e0c32ac2ca4dbe2108b78"
+    },
+    {
+        "file_code": "c331",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c331_00_s.png",
+        "hashed_name": "88601733ef62eee2b50901983e03b5e0"
+    },
+    {
+        "file_code": "c350",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c350_00_s.png",
+        "hashed_name": "d848c005bcb57e3f0ab95550759c642d"
+    },
+    {
+        "file_code": "c350",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c350_01_s.png",
+        "hashed_name": "a586d0487715e9afeb1ebfdad6d48a02"
+    },
+    {
+        "file_code": "c350",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c350_02_s.png",
+        "hashed_name": "6aa219568017827222ccbd75acac1dc8"
+    },
+    {
+        "file_code": "c351",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c351_00_s.png",
+        "hashed_name": "18468591d1114f7e507e01729e748d36"
+    },
+    {
+        "file_code": "c351",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c351_01_s.png",
+        "hashed_name": "2d9442c1dcdecb46addb44dc88d85c6f"
+    },
+    {
+        "file_code": "c352",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c352_00_s.png",
+        "hashed_name": "6eb276f56e86c800e6c1637f748f658e"
+    },
+    {
+        "file_code": "c352",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c352_01_s.png",
+        "hashed_name": "b243710d5d5d23fd4c23e46128ba6bf0"
+    },
+    {
+        "file_code": "c352",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c352_02_s.png",
+        "hashed_name": "ab50fe174a87b690add059d939f4f10b"
+    },
+    {
+        "file_code": "c353",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c353_00_s.png",
+        "hashed_name": "4cc71983fcefe8874f09f8ca2fa578e8"
+    },
+    {
+        "file_code": "c354",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c354_00_s.png",
+        "hashed_name": "48008ee53d436d8fcfd5ab06ab132f44"
+    },
+    {
+        "file_code": "c355",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c355_00_s.png",
+        "hashed_name": "41320dfb4a8fbf87079cc606dcfec8b2"
+    },
+    {
+        "file_code": "c361",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c361_00_s.png",
+        "hashed_name": "4cb3c205fe127853f74a3b87ec25f9bd"
+    },
+    {
+        "file_code": "c370",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c370_00_s.png",
+        "hashed_name": "cb86bd7aca5267edb0425c4f280be677"
+    },
+    {
+        "file_code": "c371",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c371_00_s.png",
+        "hashed_name": "7af615a3849a57a10023cf1fadd7a54b"
+    },
+    {
+        "file_code": "c380",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c380_00_s.png",
+        "hashed_name": "83783be5a9bd75bc50506deeb72577b5"
+    },
+    {
+        "file_code": "c381",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c381_00_s.png",
+        "hashed_name": "b46295968204bfb70ddf299af5e2dbf5"
+    },
+    {
+        "file_code": "c381",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c381_01_s.png",
+        "hashed_name": "bfedf299b5b910b64d20e47063d317e5"
+    },
+    {
+        "file_code": "c382",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c382_00_s.png",
+        "hashed_name": "5165681a88e819ad4d876747ea4caba3"
+    },
+    {
+        "file_code": "c382",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c382_01_s.png",
+        "hashed_name": "a3b5bcd1163ca06d8527150a0be069eb"
+    },
+    {
+        "file_code": "c390",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c390_00_s.png",
+        "hashed_name": "fbd49987dd45969d686293decdd48641"
+    },
+    {
+        "file_code": "c390",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c390_01_s.png",
+        "hashed_name": "9cd9fa878e8528a2ab8e6a055e8c7839"
+    },
+    {
+        "file_code": "c391",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c391_00_s.png",
+        "hashed_name": "8d4025eb410655bb50c4afec83258b06"
+    },
+    {
+        "file_code": "c391",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c391_01_s.png",
+        "hashed_name": "aec37854a4a2b55f5425835f0bf8e3f8"
+    },
+    {
+        "file_code": "c392",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c392_00_s.png",
+        "hashed_name": "c3d3a2e6c8d8cdcfe0e1e860fc76048a"
+    },
+    {
+        "file_code": "c400",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c400_00_s.png",
+        "hashed_name": "64bdf75b80ff8f1d93bc9501ec0ef9e2"
+    },
+    {
+        "file_code": "c400",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c400_01_s.png",
+        "hashed_name": "4c1c3c9b2ba980cfcf33035b4c37332a"
+    },
+    {
+        "file_code": "c401",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c401_00_s.png",
+        "hashed_name": "aabd44d1aad487040c9d763128b1476f"
+    },
+    {
+        "file_code": "c401",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c401_01_s.png",
+        "hashed_name": "64315138907ff1939483dcc61cc687f4"
+    },
+    {
+        "file_code": "c402",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c402_00_s.png",
+        "hashed_name": "5ac9574ba22c5a1141df9573e1ba36d3"
+    },
+    {
+        "file_code": "c403",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c403_00_s.png",
+        "hashed_name": "10d32aad9c312bb04139ffa8a87ce4ea"
+    },
+    {
+        "file_code": "c411",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c411_00_s.png",
+        "hashed_name": "766216520ad381b0c26868d1de56056b"
+    },
+    {
+        "file_code": "c412",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c412_00_s.png",
+        "hashed_name": "9399bd4bbe5df0f8d3a440f1287e8c45"
+    },
+    {
+        "file_code": "c430",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c430_00_s.png",
+        "hashed_name": "053db7c9124e865827c029cd9d716454"
+    },
+    {
+        "file_code": "c430",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c430_01_s.png",
+        "hashed_name": "891eb419989dbfcd9dfb4d04b412ccbf"
+    },
+    {
+        "file_code": "c430",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c430_02_s.png",
+        "hashed_name": "1caf4bc9133e157234cc627effabb6fb"
+    },
+    {
+        "file_code": "c431",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c431_00_s.png",
+        "hashed_name": "a9c1618bda5f60bae03eb0058b79c402"
+    },
+    {
+        "file_code": "c431",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c431_01_s.png",
+        "hashed_name": "7cad3610defc20a7a235ea110f29a5a0"
+    },
+    {
+        "file_code": "c432",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c432_00_s.png",
+        "hashed_name": "ddf0b3e4d575e11015b11446c3f82eef"
+    },
+    {
+        "file_code": "c440",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c440_00_s.png",
+        "hashed_name": "325f96622d363f7b51d886e2e5791147"
+    },
+    {
+        "file_code": "c441",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c441_00_s.png",
+        "hashed_name": "0fd67059d64bee95353b70a01eab1e36"
+    },
+    {
+        "file_code": "c450",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c450_00_s.png",
+        "hashed_name": "ae2a671c5c132664ed0f0d2fe10649b7"
+    },
+    {
+        "file_code": "c450",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c450_01_s.png",
+        "hashed_name": "16bac7fd1c2c08b35f641360dc5b408d"
+    },
+    {
+        "file_code": "c450",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c450_02_s.png",
+        "hashed_name": "0f58cdbc9251d9a136bc376d8770ef2d"
+    },
+    {
+        "file_code": "c451",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c451_00_s.png",
+        "hashed_name": "21002c234f2f02cde51f38cdcaed15c5"
+    },
+    {
+        "file_code": "c451",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c451_01_s.png",
+        "hashed_name": "8e0b75e9c6a2482b841972b344e96fd9"
+    },
+    {
+        "file_code": "c451",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c451_02_s.png",
+        "hashed_name": "c3fe0c2d2d2c6d55f2f8452fcc14e56a"
+    },
+    {
+        "file_code": "c470",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c470_00_s.png",
+        "hashed_name": "edb69f01d549d17dfb4b5c6ad287f004"
+    },
+    {
+        "file_code": "c470",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c470_01_s.png",
+        "hashed_name": "d552595529665dd7f399f370f44b88b7"
+    },
+    {
+        "file_code": "c470",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c470_02_s.png",
+        "hashed_name": "8a72949f1421a552bf44e8d28fc0e75e"
+    },
+    {
+        "file_code": "c480",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c480_00_s.png",
+        "hashed_name": "6c390fdc6f99495bf0b18a66f3019178"
+    },
+    {
+        "file_code": "c481",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c481_00_s.png",
+        "hashed_name": "53a50a2cc7de3ee8905ff26bd9796eff"
+    },
+    {
+        "file_code": "c482",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c482_00_s.png",
+        "hashed_name": "b34f161c65f0488683f0afa8af9b9d83"
+    },
+    {
+        "file_code": "c490",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c490_00_s.png",
+        "hashed_name": "0baad645899b47368b76c4e88f521c8f"
+    },
+    {
+        "file_code": "c491",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c491_00_s.png",
+        "hashed_name": "d4fa1f24b0da138d1a11f1ae660051f7"
+    },
+    {
+        "file_code": "c500",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c500_00_s.png",
+        "hashed_name": "b45349b8cee4c33501d32b0f2eb3bd00"
+    },
+    {
+        "file_code": "c501",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c501_00_s.png",
+        "hashed_name": "e1445bc63e3f901a488b96ab826b80f3"
+    },
+    {
+        "file_code": "c501",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c501_01_s.png",
+        "hashed_name": "1aab9980aae0abd1c2f2ddd59c451b64"
+    },
+    {
+        "file_code": "c502",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c502_00_s.png",
+        "hashed_name": "f10a097011e78df1532035ea4e7abe90"
+    },
+    {
+        "file_code": "c510",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c510_00_s.png",
+        "hashed_name": "4990605f136ba7df3aa103dc3b98de96"
+    },
+    {
+        "file_code": "c511",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c511_00_s.png",
+        "hashed_name": "565e5033848443dccafb2915b5de7a5f"
+    },
+    {
+        "file_code": "c511",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c511_01_s.png",
+        "hashed_name": "e57d8520b55bc1fc26ba116c899a587f"
+    },
+    {
+        "file_code": "c511",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c511_02_s.png",
+        "hashed_name": "5fdd60aadbdaa40f479121c15534a9f6"
+    },
+    {
+        "file_code": "c513",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c513_00_s.png",
+        "hashed_name": "309030eb6ab8647d4286c09eeb26d26f"
+    },
+    {
+        "file_code": "c513",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c513_01_s.png",
+        "hashed_name": "928e2638bb8ec2a230167586fc3e8774"
+    },
+    {
+        "file_code": "c513",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c513_02_s.png",
+        "hashed_name": "92ffa10969ad41aebb0d102d0ff909c5"
+    },
+    {
+        "file_code": "c514",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c514_00_s.png",
+        "hashed_name": "77740a01d118f4af9dc8ed4ef5ba2e94"
+    },
+    {
+        "file_code": "c514",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c514_01_s.png",
+        "hashed_name": "2ec730acff343f21813a8c6a0930a10b"
+    },
+    {
+        "file_code": "c520",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c520_00_s.png",
+        "hashed_name": "00e0a91684950b9ad5edfd430af25556"
+    },
+    {
+        "file_code": "c521",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c521_00_s.png",
+        "hashed_name": "27ecf9ca157cb1ac1f5ab611ef34cea5"
+    },
+    {
+        "file_code": "c530",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c530_00_s.png",
+        "hashed_name": "7d3415026beb766502d0bb0f325bb44f"
+    },
+    {
+        "file_code": "c531",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c531_00_s.png",
+        "hashed_name": "779f48d0ae4a4d4cc6ed58f05d3755d7"
+    },
+    {
+        "file_code": "c532",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c532_00_s.png",
+        "hashed_name": "010a4ef3597404c6393c50191ae8880a"
+    },
+    {
+        "file_code": "c550",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c550_00_s.png",
+        "hashed_name": "7d1e616badedb1dea16f9239e24bc91d"
+    },
+    {
+        "file_code": "c550",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c550_01_s.png",
+        "hashed_name": "4edf06d79281d26e6abcb703d458955f"
+    },
+    {
+        "file_code": "c551",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c551_00_s.png",
+        "hashed_name": "c9ca227a30a955d9d7a23555c37d64e0"
+    },
+    {
+        "file_code": "c560",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c560_00_s.png",
+        "hashed_name": "95c25e8f484e0fa627161c8f893cb336"
+    },
+    {
+        "file_code": "c561",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c561_00_s.png",
+        "hashed_name": "2af2043716fd8fac07d16685374a2cca"
+    },
+    {
+        "file_code": "c562",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c562_00_s.png",
+        "hashed_name": "25bf3ee6f71f77f5bbcd1a06700827dc"
+    },
+    {
+        "file_code": "c563",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c563_00_s.png",
+        "hashed_name": "5b489a44d2630d55ecf495f550242a6e"
+    },
+    {
+        "file_code": "c570",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c570_00_s.png",
+        "hashed_name": "e8f424e0344945ad10f3587577445c02"
+    },
+    {
+        "file_code": "c580",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c580_00_s.png",
+        "hashed_name": "c1cb5b29317e1b590cddc28b72908a1d"
+    },
+    {
+        "file_code": "c581",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c581_00_s.png",
+        "hashed_name": "f1fc7fcf383fa8067a1606dc5e943297"
+    },
+    {
+        "file_code": "c590",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c590_00_s.png",
+        "hashed_name": "52f24394326aee748f3e2804d51cbaac"
+    },
+    {
+        "file_code": "c600",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c600_00_s.png",
+        "hashed_name": "a3b04f4bb7a41f923fc215dd180e53ec"
+    },
+    {
+        "file_code": "c601",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c601_00_s.png",
+        "hashed_name": "a45b25e7d146dd13134fd77e0b6c70c3"
+    },
+    {
+        "file_code": "c800",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c800_00_s.png",
+        "hashed_name": "5e483b668930551a43ebe9226827158d"
+    },
+    {
+        "file_code": "c800",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c800_01_s.png",
+        "hashed_name": "381a4333abbe3fa55e3ff46d46a1b657"
+    },
+    {
+        "file_code": "c801",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c801_00_s.png",
+        "hashed_name": "ca6b1127d0c96a276f1d0ad1d7386d70"
+    },
+    {
+        "file_code": "c802",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c802_00_s.png",
+        "hashed_name": "a0b71eaffba9ee995a42e7ad7fbb50d3"
+    },
+    {
+        "file_code": "c803",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c803_00_s.png",
+        "hashed_name": "e269b46d0ad5b1eae36f3be99618c0d4"
+    },
+    {
+        "file_code": "c804",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c804_00_s.png",
+        "hashed_name": "147220cddd9d68ab080a94013982422f"
+    },
+    {
+        "file_code": "c810",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c810_00_s.png",
+        "hashed_name": "55c3aaf8d3e4d902e0be36e126b2aa69"
+    },
+    {
+        "file_code": "c810",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c810_01_s.png",
+        "hashed_name": "719f07d32a40904d974d7ece78928ec6"
+    },
+    {
+        "file_code": "c810",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c810_02_s.png",
+        "hashed_name": "9546cbedd9e3c8f877a745d3abd9e9d8"
+    },
+    {
+        "file_code": "c810",
+        "skin_code": "03",
+        "type": "portrait",
+        "asset_name": "mi_c810_03_s.png",
+        "hashed_name": "18b444920de7e8a1a6e177f0122edc36"
+    },
+    {
+        "file_code": "c811",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c811_00_s.png",
+        "hashed_name": "ca848375c487c31d5b2e94cf7ff3452c"
+    },
+    {
+        "file_code": "c811",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c811_01_s.png",
+        "hashed_name": "6466dad9445d8c8a035f8d5e4a706d3b"
+    },
+    {
+        "file_code": "c811",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c811_02_s.png",
+        "hashed_name": "9135e22bc89cfff58a72f4790e6d11b5"
+    },
+    {
+        "file_code": "c811",
+        "skin_code": "03",
+        "type": "portrait",
+        "asset_name": "mi_c811_03_s.png",
+        "hashed_name": "a235c4e71f364394fbc26326c3d003b0"
+    },
+    {
+        "file_code": "c812",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c812_00_s.png",
+        "hashed_name": "dee88ddaef831ba7854490979597bd60"
+    },
+    {
+        "file_code": "c820",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c820_00_s.png",
+        "hashed_name": "06f1c31e55ddf55b39b5fa2002c72391"
+    },
+    {
+        "file_code": "c820",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c820_01_s.png",
+        "hashed_name": "a47613cc9003053e3cab788541c6d671"
+    },
+    {
+        "file_code": "c820",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c820_02_s.png",
+        "hashed_name": "c4d69df118bed77d5e89ba449edd2bc0"
+    },
+    {
+        "file_code": "c821",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c821_00_s.png",
+        "hashed_name": "b9feac453e8d641e9feab7a0ef8c6ba2"
+    },
+    {
+        "file_code": "c821",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c821_01_s.png",
+        "hashed_name": "6f092a579d732509b0cadaca9988b507"
+    },
+    {
+        "file_code": "c821",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c821_02_s.png",
+        "hashed_name": "c3bbdd4620aa6d77fac504b450f6de1f"
+    },
+    {
+        "file_code": "c822",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c822_00_s.png",
+        "hashed_name": "ebc96cd70c44d1b5a2f7555a4c69f796"
+    },
+    {
+        "file_code": "c830",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c830_00_s.png",
+        "hashed_name": "37f8b5536ad1b57f4351c5baef66b9b9"
+    },
+    {
+        "file_code": "c830",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c830_01_s.png",
+        "hashed_name": "05458de08293f09bca12b2cc9f69de95"
+    },
+    {
+        "file_code": "c830",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c830_02_s.png",
+        "hashed_name": "0b128bca47b207360a4478639f4194cd"
+    },
+    {
+        "file_code": "c830",
+        "skin_code": "03",
+        "type": "portrait",
+        "asset_name": "mi_c830_03_s.png",
+        "hashed_name": "3d3af23bfb8b84a391315668b86e64a7"
+    },
+    {
+        "file_code": "c831",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c831_00_s.png",
+        "hashed_name": "ed693fe18d763515fbd233dd7a0d07fe"
+    },
+    {
+        "file_code": "c831",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c831_01_s.png",
+        "hashed_name": "cd996781a37b5760ae86ade20238f08a"
+    },
+    {
+        "file_code": "c831",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c831_02_s.png",
+        "hashed_name": "b7dc7323b7a1b611b8da16d718f91cf1"
+    },
+    {
+        "file_code": "c832",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c832_00_s.png",
+        "hashed_name": "56ef5707baab8ef624b9607b51ae45e9"
+    },
+    {
+        "file_code": "c832",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c832_01_s.png",
+        "hashed_name": "f2aa9dd886df58b2cffe8a932f469f9e"
+    },
+    {
+        "file_code": "c832",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c832_02_s.png",
+        "hashed_name": "d8e173b953c108544aba5df76c0567db"
+    },
+    {
+        "file_code": "c832",
+        "skin_code": "03",
+        "type": "portrait",
+        "asset_name": "mi_c832_03_s.png",
+        "hashed_name": "7d827cdcd098cdefc633c4cbd70408a1"
+    },
+    {
+        "file_code": "c832",
+        "skin_code": "04",
+        "type": "portrait",
+        "asset_name": "mi_c832_04_s.png",
+        "hashed_name": "6d4dd9123ae9b75361cad911fe75c1f6"
+    },
+    {
+        "file_code": "c833",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c833_00_s.png",
+        "hashed_name": "52481afe3944d19ccca07af45ae43036"
+    },
+    {
+        "file_code": "c834",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c834_00_s.png",
+        "hashed_name": "5ebf443fc63e47892ac24ac21fcfc0cc"
+    },
+    {
+        "file_code": "c834",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c834_01_s.png",
+        "hashed_name": "b489c685764a695989e3f483d7a8e7eb"
+    },
+    {
+        "file_code": "c834",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c834_02_s.png",
+        "hashed_name": "3dfd604b032570c71cc649605f69e40b"
+    },
+    {
+        "file_code": "c835",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c835_00_s.png",
+        "hashed_name": "80cec3388f2487dafc45503c2b0b604f"
+    },
+    {
+        "file_code": "c835",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c835_01_s.png",
+        "hashed_name": "a80250552b91d1e48440e529fb794699"
+    },
+    {
+        "file_code": "c835",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c835_02_s.png",
+        "hashed_name": "313ff4f03c580a2f2b25254c630b8652"
+    },
+    {
+        "file_code": "c836",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c836_00_s.png",
+        "hashed_name": "8699c3351d5eb1d9fd6982902b6ca402"
+    },
+    {
+        "file_code": "c840",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c840_00_s.png",
+        "hashed_name": "8a6763ca3e43ce0cb5b5ffff4581310c"
+    },
+    {
+        "file_code": "c840",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c840_01_s.png",
+        "hashed_name": "8acaa05b93df39c0f71d1eea56306eea"
+    },
+    {
+        "file_code": "c840",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c840_02_s.png",
+        "hashed_name": "8da62f0723850c3906e56170ba698fe0"
+    },
+    {
+        "file_code": "c841",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c841_00_s.png",
+        "hashed_name": "5d27a7620935488b4d00f2fd65745fef"
+    },
+    {
+        "file_code": "c841",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c841_01_s.png",
+        "hashed_name": "4db7a343eb2bbd1289acb1473559b70f"
+    },
+    {
+        "file_code": "c841",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c841_02_s.png",
+        "hashed_name": "2bc0df28a490bd2f05c68bfb76dd68a7"
+    },
+    {
+        "file_code": "c842",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c842_00_s.png",
+        "hashed_name": "6610496f5e7e6bcc2c078d51bd499931"
+    },
+    {
+        "file_code": "c850",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c850_00_s.png",
+        "hashed_name": "bec2e59081d08f09d6593af3ad09c75a"
+    },
+    {
+        "file_code": "c850",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c850_01_s.png",
+        "hashed_name": "0bfc427da904ec31b4aa633f00478d21"
+    },
+    {
+        "file_code": "c850",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c850_02_s.png",
+        "hashed_name": "54252e017fb553b3a4e0b367341620b7"
+    },
+    {
+        "file_code": "c850",
+        "skin_code": "03",
+        "type": "portrait",
+        "asset_name": "mi_c850_03_s.png",
+        "hashed_name": "3244e89bc556bd64f7313f7430982719"
+    },
+    {
+        "file_code": "c851",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c851_00_s.png",
+        "hashed_name": "6dff046b46764fcdce884158a9ed345c"
+    },
+    {
+        "file_code": "c851",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c851_01_s.png",
+        "hashed_name": "e434d5c410c22322f71e3bc847bab4bb"
+    },
+    {
+        "file_code": "c851",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c851_02_s.png",
+        "hashed_name": "1d35b644c88d9f5ce8a0851b6c60244a"
+    },
+    {
+        "file_code": "c852",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c852_00_s.png",
+        "hashed_name": "77922671ceacdb631a2203b4c1054862"
+    },
+    {
+        "file_code": "c853",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c853_00_s.png",
+        "hashed_name": "dac9993b5fc9720a628ee166c4f2e19a"
+    },
+    {
+        "file_code": "c890",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c890_00_s.png",
+        "hashed_name": "257c83881b2bcf59e1e4986c9910df4d"
+    },
+    {
+        "file_code": "c900",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c900_00_s.png",
+        "hashed_name": "30cb2675b611ca8e6af63648f582c8a2"
+    },
+    {
+        "file_code": "c901",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c901_00_s.png",
+        "hashed_name": "18cfce52b2ddc5d493fd0f6837dd2ea6"
+    },
+    {
+        "file_code": "c902",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c902_00_s.png",
+        "hashed_name": "f80ec917334538ad02e90c509c85272e"
+    },
+    {
+        "file_code": "c903",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c903_00_s.png",
+        "hashed_name": "66e152e423de19a6c7e47b1e218c6160"
+    },
+    {
+        "file_code": "c903",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c903_01_s.png",
+        "hashed_name": "9ad1af08578aeba41e3ca9a02d8a6789"
+    },
+    {
+        "file_code": "c904",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c904_00_s.png",
+        "hashed_name": "bf9e7a7cb14312fc015ea6efa0bb7151"
+    },
+    {
+        "file_code": "c905",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c905_00_s.png",
+        "hashed_name": "221b1da42a45ec8e72e797eca0b4be30"
+    },
+    {
+        "file_code": "c907",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c907_00_s.png",
+        "hashed_name": "02b5a0c18bd6c4f8ae300b4c06aee653"
+    },
+    {
+        "file_code": "c910",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c910_00_s.png",
+        "hashed_name": "65977bc2782bd49ed0af69370cc70b09"
+    },
+    {
+        "file_code": "c910",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c910_01_s.png",
+        "hashed_name": "d961b5180219d783630f862dd1137931"
+    },
+    {
+        "file_code": "c911",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c911_00_s.png",
+        "hashed_name": "f3648e258d6bd184ab138415d6143f97"
+    },
+    {
+        "file_code": "c912",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c912_00_s.png",
+        "hashed_name": "12994d439fa8568fc6046b96876e5bab"
+    },
+    {
+        "file_code": "c914",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c914_00_s.png",
+        "hashed_name": "b93f1bd79564e05e82902ea6f8316444"
+    },
+    {
+        "file_code": "c916",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c916_00_s.png",
+        "hashed_name": "336f9190ffdc7196f7f57433d9194813"
+    },
+    {
+        "file_code": "c917",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c917_00_s.png",
+        "hashed_name": "7ade58ae09c05cf2ae2dc4bdcfda2416"
+    },
+    {
+        "file_code": "c918",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c918_00_s.png",
+        "hashed_name": "89757c2ecfbaf4851af8222efb414b0a"
+    },
+    {
+        "file_code": "c919",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c919_00_s.png",
+        "hashed_name": "79fce031462163a3ca73237dc9e7fdc5"
+    },
+    {
+        "file_code": "c920",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c920_00_s.png",
+        "hashed_name": "dd3ef6fbe3d58abbe6f979260595e913"
+    },
+    {
+        "file_code": "c921",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c921_00_s.png",
+        "hashed_name": "04720eefa5ed398d8c82feffcf77ddc4"
+    },
+    {
+        "file_code": "c922",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c922_00_s.png",
+        "hashed_name": "afd49b17e42d38c53c0dc64c3aa4c796"
+    },
+    {
+        "file_code": "c925",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c925_00_s.png",
+        "hashed_name": "c49d9fa9bfbd8bba42eeadb7512dd50c"
+    },
+    {
+        "file_code": "c928",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c928_00_s.png",
+        "hashed_name": "71a9ab377fb04165b352464e96e9ffb9"
+    },
+    {
+        "file_code": "c929",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c929_00_s.png",
+        "hashed_name": "fe7070a705b64756aa98757c3f203a9f"
+    },
+    {
+        "file_code": "c930",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c930_00_s.png",
+        "hashed_name": "ce6f96d9aba7dc1a18ce433ab8333dc0"
+    },
+    {
+        "file_code": "c931",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c931_00_s.png",
+        "hashed_name": "b7efaf2d70a58ec4d2e8ab8a080c71a5"
+    },
+    {
+        "file_code": "c932",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c932_00_s.png",
+        "hashed_name": "ebda1022f4562e806419ae0fbbbd6663"
+    },
+    {
+        "file_code": "c933",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c933_00_s.png",
+        "hashed_name": "181313997f9fc89851deabd8d55835fd"
+    },
+    {
+        "file_code": "c934",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c934_00_s.png",
+        "hashed_name": "751ce2a9a33033e4bb8c1c8234633e80"
+    },
+    {
+        "file_code": "c935",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c935_00_s.png",
+        "hashed_name": "286e4bd809bbc025a16d1586f3199290"
+    },
+    {
+        "file_code": "c936",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c936_00_s.png",
+        "hashed_name": "9ac935a4226c1549f1a253d63f194abe"
+    },
+    {
+        "file_code": "c937",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c937_00_s.png",
+        "hashed_name": "803cff33ec21affdb0eeab8dfd8ebac9"
+    },
+    {
+        "file_code": "c939",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c939_00_s.png",
+        "hashed_name": "28a2e52065160d88adaeb58b8595de84"
+    },
+    {
+        "file_code": "c940",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c940_00_s.png",
+        "hashed_name": "a41998b5b2ad7aa5ab236c81504899c9"
+    },
+    {
+        "file_code": "c941",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c941_00_s.png",
+        "hashed_name": "d5dd5782f6a5fa726b7fefc3993e4426"
+    },
+    {
+        "file_code": "c942",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c942_00_s.png",
+        "hashed_name": "f4c57a73791a2dceb18c8cd7402494da"
+    },
+    {
+        "file_code": "c943",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c943_00_s.png",
+        "hashed_name": "1c4bad00bafd7fc9b2439332f22304bd"
+    },
+    {
+        "file_code": "c944",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c944_00_s.png",
+        "hashed_name": "140d3ec43eda5ae16d7f06cb0d35a6a5"
+    },
+    {
+        "file_code": "c946",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c946_00_s.png",
+        "hashed_name": "193cc2980a23bbd9051834951f88aa98"
+    },
+    {
+        "file_code": "c960",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c960_00_s.png",
+        "hashed_name": "bd017a294b98b89f1f03347433ea8547"
+    },
+    {
+        "file_code": "c961",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c961_00_s.png",
+        "hashed_name": "4f8b3062901e0851cac2272a5e732ebe"
+    },
+    {
+        "file_code": "c962",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c962_00_s.png",
+        "hashed_name": "e2f4cec47d411de870ccfac2d4e5cae2"
+    },
+    {
+        "file_code": "c963",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c963_00_s.png",
+        "hashed_name": "eaf00bd4b0081c53e2fbfd46e1ffc79c"
+    },
+    {
+        "file_code": "c964",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c964_00_s.png",
+        "hashed_name": "f7aacc54c3d561f2d2aecabc8f479b41"
+    },
+    {
+        "file_code": "c965",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c965_00_s.png",
+        "hashed_name": "f46083f7047e52184ac4d542fa74c636"
+    },
+    {
+        "file_code": "c966",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c966_00_s.png",
+        "hashed_name": "4b1bc807f37fefb9d9859ee5b708f768"
+    },
+    {
+        "file_code": "c967",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c967_00_s.png",
+        "hashed_name": "5f5332f8d917e7a630cdc908994f0f6d"
+    },
+    {
+        "file_code": "c968",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c968_00_s.png",
+        "hashed_name": "2a844df53afbef2dc7074d99ef1345fb"
+    },
+    {
+        "file_code": "c969",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c969_00_s.png",
+        "hashed_name": "9fbdedb2575062ded27557a337f2edba"
+    },
+    {
+        "file_code": "c970",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c970_00_s.png",
+        "hashed_name": "a38ee841ede217596e7de3773ebc39ab"
+    },
+    {
+        "file_code": "c971",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c971_00_s.png",
+        "hashed_name": "6b186623f9ae570113ae2d9d12d87a39"
+    },
+    {
+        "file_code": "c971",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c971_01_s.png",
+        "hashed_name": "0bf6ca2a39836218c88cc791ad25098b"
+    },
+    {
+        "file_code": "c973",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c973_00_s.png",
+        "hashed_name": "f6218b12adb2ae8d0f4c13ca86f9dbc3"
+    },
+    {
+        "file_code": "c974",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c974_00_s.png",
+        "hashed_name": "beab3c48fedd8e872b060cd4641caf4d"
+    },
+    {
+        "file_code": "c976",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c976_00_s.png",
+        "hashed_name": "d83bb0a30a0ab0b5e7220401ae02ec41"
+    },
+    {
+        "file_code": "c977",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c977_00_s.png",
+        "hashed_name": "72b4facbb50fd00bcd76eaed4cc7fc1e"
+    },
+    {
+        "file_code": "c979",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c979_00_s.png",
+        "hashed_name": "9e060cf6491cb456ddd5ef50b6b3d23e"
+    },
+    {
+        "file_code": "c980",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c980_00_s.png",
+        "hashed_name": "8456077f2fa393201377d1691a32c1f3"
+    },
+    {
+        "file_code": "c981",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c981_00_s.png",
+        "hashed_name": "612db11aa2bb3afe44877341f565a6c3"
+    },
+    {
+        "file_code": "c982",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c982_00_s.png",
+        "hashed_name": "c2d83f27f4dcbf376722f4ff3c818618"
+    },
+    {
+        "file_code": "c984",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c984_01_s.png",
+        "hashed_name": "b8dc77bfa235a1ff7b7f15f79c64b78a"
+    },
+    {
+        "file_code": "c985",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c985_00_s.png",
+        "hashed_name": "ec6785de0d3cbf52b75556bf78ae1ab0"
+    },
+    {
+        "file_code": "c988",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c988_00_s.png",
+        "hashed_name": "26e9767459ff4e434a1e0f7911df40b5"
+    },
+    {
+        "file_code": "c989",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c989_00_s.png",
+        "hashed_name": "7e8581a0ff28c781779ac29ced446352"
+    },
+    {
+        "file_code": "c990",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c990_00_s.png",
+        "hashed_name": "ecd0c31133137518dd8075a97109d60a"
+    },
+    {
+        "file_code": "c991",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c991_00_s.png",
+        "hashed_name": "91a2b816ffba15d5d098b4e2b7ceb05b"
+    },
+    {
+        "file_code": "c992",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c992_00_s.png",
+        "hashed_name": "f1e1a10e65e06c4ba686e390ad28eb63"
+    },
+    {
+        "file_code": "c993",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c993_00_s.png",
+        "hashed_name": "54fd7b40e5cebfde914d11703d4c501d"
+    },
+    {
+        "file_code": "c994",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c994_00_s.png",
+        "hashed_name": "403805865ff5665717d64d1427c9f724"
+    },
+    {
+        "file_code": "c996",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c996_00_s.png",
+        "hashed_name": "b5bfd0a6faad41114e0e43abbb96ce43"
+    },
+    {
+        "file_code": "c998",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c998_00_s.png",
+        "hashed_name": "adf6f525f45a5f0ef0923e8954220eb7"
+    },
+    {
+        "file_code": "c999",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c999_00_s.png",
+        "hashed_name": "46d9acb6149b067fe3eb85b0f5757d3c"
+    }
+]
