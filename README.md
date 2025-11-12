@@ -19,12 +19,12 @@ Credits：
 感谢nikke社区和广大mod社区中各位大佬的付出
 
 ```
-
+那由塔镇楼！
 ![](https://i2.hdslb.com/bfs/new_dyn/a87c01732811df31f40a9753effc669f19505257.jpg)
 
-##  Doro_Repacker_EX 
+#  Doro_Repacker_EX 
 
-### 工具介绍
+## 工具介绍
 
 *本repack程序在daso132的Doro_Repacker_modified_final上改进*
 
@@ -35,7 +35,7 @@ Credits：
 放入mod后按顺序执行脚本便能以一条龙形式repack所有outdated mods。  
 （个人删除了daso132提供的exe，因为逐条执行python文件已经很便捷了，通过exe执行反而失去了很多调试的空间）
 
-### 使用说明
+## 使用说明
 1. 安装pycharm等IDE（或用CMD的python），进入到Doro_Repacker_EX的目录。
 
 2. （可选操作，使用conda创建nikke环境）
@@ -62,7 +62,7 @@ Credits：
 
 5. Repack完毕！Repacked文件夹里已经有最终的mod了，可以用AssetStudioGUI和UABEA看看mod的内部数据，也可以用SpineViewer和Na0h-NMM去预览mod的实际效果
 
-### 注意事项
+## 注意事项
 #### ①命名问题
 
 **Idle类mod命名格式：****{角色编号}** _ **{服装编号}** _ **{standing/cover/aim}** _ {作者} _ {其他}
@@ -95,7 +95,7 @@ Voice和Emotion等就十分少见了...
 没有一劳永逸的办法，如果JSON过期了又需要repack的话，多逛逛discord吧。
 
 
-### 其他
+## 其他
 ①这只是一个短期的打包工具，并非LTS版本，当然我希望之后需要repack时它依然有用。目前来看，它是解决Idle mod和SkillCut mod相关repack问题的最优解（因为支持处理某类顽固mod）  
 ②珍藏品动画目前需要Na0h版nmm_v2.5以上才可以打mod  
 ③这一篇没怎么介绍Nikke Mod相关的内容，需要的话请私讯我让我知道这是有必要的
