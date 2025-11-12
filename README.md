@@ -20,7 +20,7 @@ Credits：
 
 ```
 ![](https://i2.hdslb.com/bfs/new_dyn/a87c01732811df31f40a9753effc669f19505257.jpg)
-> 立个娜由塔，无为竞癫疯！
+> 立个娜由塔，无为竞癫疯！ 	(artist: SOLar)
 #  Doro_Repacker_EX 
 
 ## 工具介绍
@@ -104,5 +104,5 @@ Voice和Emotion等就十分少见了...
 	daso132：Doro_Repacker_modified_final  
 	Discord：https://discord.gg/nikke
 	
-> 水母女儿收尾
+> 水母女儿收尾 	(artist: SOLar)
 ![](https://i2.hdslb.com/bfs/new_dyn/bd678029f226de9593e5266a27f9775219505257.jpg)
